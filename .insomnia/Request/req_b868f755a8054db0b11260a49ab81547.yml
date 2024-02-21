@@ -1,0 +1,38 @@
+_id: req_b868f755a8054db0b11260a49ab81547
+type: Request
+parentId: fld_4a954d2da56b4dbf8cee9f78b4963c25
+modified: 1693690524342
+created: 1647747541451
+url: https://legionathletics.com/my-account/add-payment-method/
+name: "13"
+description: ""
+method: GET
+body: {}
+parameters: []
+headers:
+  - name: accept
+    value: text/html,application/xhtml+xml,application/xml;q=0.9,image/avif,image/webp,image/apng,*/*;q=0.8,application/signed-exchange;v=b3;q=0.7
+  - name: cookie
+    value: legion_account_payment_captcha_valid=true; cf_chl_2=603fdc821b0f9e4;
+      cf_clearance=U0BBhXfgWqPMqA4Tf6I6AdVfVoPCAI46vR1vSOBd.ko-1693690126-0-1-a9278b41.f91a6b95.fe26d4a1-150.0.0;
+      wordpress_d990076f353f71b622e5c51d7a0f0734=ecwqcqw%40qw.com%7C1693863156%7Cr84nimbANW0ZhEM1xO5zyMSV5tonx9fetUilRxscMcK%7C71fcddd0e2888b6ee98d5fcec09e7268af2ab626e209c5946f2bbd2615107b6e;
+      wordpress_logged_in_d990076f353f71b622e5c51d7a0f0734=ecwqcqw%40qw.com%7C1693863156%7Cr84nimbANW0ZhEM1xO5zyMSV5tonx9fetUilRxscMcK%7C59e79bc4870115cc5b05294ef6434753525db5543d472a4bc35b533e52d07059;
+      wordpress_sec_d990076f353f71b622e5c51d7a0f0734=ecwqcqw%40qw.com%7C1694899956%7CAuDKhTPj3g6zaSuwcVYRrEVFyctISw951nH0rpUACmb%7Cab9c193c5fea436b6a08b63ef79fd433c5253a1b605b09439784bf298b297583;
+      wp_woocommerce_session_d990076f353f71b622e5c51d7a0f0734=193124%7C%7C1693862934%7C%7C1693859334%7C%7C88b84f8c455dbf6ff08523ae53d65458;
+  - name: origin
+    value: https://legionathletics.com
+  - name: referer
+    value: https://legionathletics.com/my-account/add-payment-method/
+  - name: user-agent
+    value: Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like
+      Gecko) Chrome/116.0.0.0 Safari/537.36
+authentication: {}
+metaSortKey: -1642500211789.5312
+isPrivate: false
+pathParameters: []
+settingStoreCookies: true
+settingSendCookies: true
+settingDisableRenderRequestBody: false
+settingEncodeUrl: true
+settingRebuildPath: true
+settingFollowRedirects: global

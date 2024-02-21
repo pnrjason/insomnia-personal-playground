@@ -1,0 +1,28 @@
+_id: req_281b93002b2a4517ac8f9f9f7a32527e
+type: Request
+parentId: wrk_178b5797b30d4d2c883d8e6014163575
+modified: 1697939914351
+created: 1697809243943
+url: https://api-eu.dhl.com/track/shipments
+name: DHL
+description: ""
+method: GET
+body: {}
+parameters:
+  - name: trackingNumber
+    value: "5910525602137103"
+    disabled: false
+    id: pair_e1cdef0c05d6440c8ac3b61162650d67
+headers:
+  - name: DHL-API-Key
+    value: 11n1c3JeRMsuXxMMgVRLHd5ZOXA2FUm2
+authentication: {}
+metaSortKey: -1697809243943
+isPrivate: false
+pathParameters: []
+settingStoreCookies: true
+settingSendCookies: true
+settingDisableRenderRequestBody: false
+settingEncodeUrl: true
+settingRebuildPath: true
+settingFollowRedirects: global

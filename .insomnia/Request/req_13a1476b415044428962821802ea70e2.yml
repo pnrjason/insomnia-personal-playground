@@ -1,0 +1,45 @@
+_id: req_13a1476b415044428962821802ea70e2
+type: Request
+parentId: fld_4a954d2da56b4dbf8cee9f78b4963c25
+modified: 1681131225461
+created: 1677212599739
+url: https://shaiya-storm.com/templates/en/pages/billing/stripe_payment.php
+name: Shaiya
+description: ""
+method: GET
+body:
+  mimeType: application/json
+  text: '{"payment_intent_id":"Payment","price":"5","userId":"811","country":"USA","firstname":"Svia","lastname":"Togslav","address":"836
+    Huntington Park Dr","sector":"North
+    Carolina","postalcode":"28211","city":"Charlotte","phonetype":"Mobile","phone":"3037402597","email":"fmorrison39@gmail.com"}'
+parameters: []
+headers:
+  - name: accept
+    value: "*/*"
+  - name: content-type
+    value: application/json
+  - name: cookie
+    value: cf_clearance=UWYBVco_URveE8oL5_ERUoT7OybCXO9wSVy2T65RkBg-1678533629-0-160;
+      PHPSESSID=nrtketpatju7b37elmo9qtegh4;
+      ahoy_visit=b3a238ad-ae21-4897-bac3-2ded3d1e89a4;
+      ahoy_events=[{"id":"729f1eee-76a8-40d6-bc34-e86135e54066","name":"$view","properties":{"url":"https://www.powr.io/countdown-timer/u/629938b2_1641224691#platform=html&url=https%3A%2F%2Fshaiyaroe.com%2F","title":"Shaiya
+      Epic","page":"/countdown-timer/u/629938b2_1641224691"},"time":1678533644.191,"app_id":31056292}];
+      __stripe_mid=0d0769cc-5cce-442f-85fe-db4f821fa12e4f8812;
+      __stripe_sid=76c019d4-089c-481d-80b2-5d4a64e6d63fd58117
+  - name: origin
+    value: https://shaiyaroe.com
+  - name: referer
+    value: https://shaiyaroe.com/?p=billing
+  - name: user-agent
+    value: Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like
+      Gecko) Chrome/110.0.0.0 Safari/537.36
+authentication: {}
+metaSortKey: -1642500212320
+isPrivate: false
+pathParameters: []
+settingStoreCookies: true
+settingSendCookies: true
+settingDisableRenderRequestBody: false
+settingEncodeUrl: true
+settingRebuildPath: true
+settingFollowRedirects: global

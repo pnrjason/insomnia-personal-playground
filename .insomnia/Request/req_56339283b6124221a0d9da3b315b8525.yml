@@ -1,0 +1,37 @@
+_id: req_56339283b6124221a0d9da3b315b8525
+type: Request
+parentId: fld_f7d757d6b75841e0ad2997f615f3f15a
+modified: 1707178741888
+created: 1648133610710
+url: https://api.capmonster.cloud/createTask
+name: ReCaptcha
+description: ""
+method: POST
+body:
+  mimeType: application/json
+  text: >-
+    {
+        "clientKey":"6432833274bf76678dfcbf764fc67ec3",
+        "task":
+        {
+            "type":"RecaptchaV2TaskProxyless",
+            "websiteURL":"https://collectcheckout.com/collect-checkout/?cartId=40203e8d-1bc8-49c2-b6b1-457c0343bcf5",
+            "websiteKey":"6LdVz8EUAAAAAGr1WN0XRA1Q3F1_dMNu51-cJit9"
+        }
+    }
+parameters: []
+headers:
+  - name: accept
+    value: text/html,application/xhtml+xml,application/xml;q=0.9,image/avif,image/webp,image/apng,*/*;q=0.8,application/signed-exchange;v=b3;q=0.9
+  - name: Content-Type
+    value: application/json
+authentication: {}
+metaSortKey: -1648751143481.83
+isPrivate: false
+pathParameters: []
+settingStoreCookies: true
+settingSendCookies: true
+settingDisableRenderRequestBody: false
+settingEncodeUrl: true
+settingRebuildPath: true
+settingFollowRedirects: global

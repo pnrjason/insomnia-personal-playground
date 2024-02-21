@@ -1,0 +1,35 @@
+_id: req_92e6664fbbe64c99a8ecbcb930532e0c
+type: Request
+parentId: fld_4a954d2da56b4dbf8cee9f78b4963c25
+modified: 1694956412233
+created: 1694956344709
+url: https://yorkcameramart.co.uk/product/5-gift-voucher
+name: "2"
+description: ""
+method: POST
+body:
+  mimeType: ""
+  text: quantity=1&add-to-cart=8660
+parameters: []
+headers:
+  - name: accept
+    value: text/html,application/xhtml+xml,application/xml;q=0.9,image/avif,image/webp,image/apng,*/*;q=0.8,application/signed-exchange;v=b3;q=0.7
+  - name: content-type
+    value: application/x-www-form-urlencoded
+  - name: origin
+    value: https://yorkcameramart.co.uk
+  - name: referer
+    value: https://yorkcameramart.co.uk/product/5-gift-voucher/
+  - name: user-agent
+    value: Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like
+      Gecko) Chrome/116.0.0.0 Safari/537.36
+authentication: {}
+metaSortKey: -1642500212276.9336
+isPrivate: false
+pathParameters: []
+settingStoreCookies: true
+settingSendCookies: true
+settingDisableRenderRequestBody: false
+settingEncodeUrl: true
+settingRebuildPath: true
+settingFollowRedirects: global

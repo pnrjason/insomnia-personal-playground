@@ -1,0 +1,56 @@
+_id: req_05a3788041e34671aed4053ed3c8a61e
+type: Request
+parentId: fld_4a954d2da56b4dbf8cee9f78b4963c25
+modified: 1694956767958
+created: 1642500390101
+url: https://api.stripe.com/v1/payment_methods
+name: "4"
+description: ""
+method: POST
+body:
+  mimeType: application/x-www-form-urlencoded
+  params:
+    - name: type
+      value: card
+      id: pair_8ffd21f3026446179e6c87b8b71241fb
+    - name: card[number]
+      value: "4191620062101205"
+      id: pair_a22c7f3c5dc44d0f9df60cc20b4fea65
+    - name: card[cvc]
+      value: ""
+      id: pair_2f609c9d5ff14782ad4d875ba2c24325
+    - name: card[exp_month]
+      value: "03"
+      id: pair_fac81e0b77b446fd920a07deacf3bebb
+    - name: card[exp_year]
+      value: "2025"
+      id: pair_e34544edc8b24dcb9b2ff8196f3732d2
+    - name: key
+      value: pk_live_iBIpeqzKOOx2Y8PFCRBfyMU000Q7xVG4Sn
+      id: pair_cd04d70005864ef4bc4cd200001cbaa2
+    - name: _stripe_account
+      value: acct_1LQIGV2HdUxF9Lqz
+      id: pair_8c7f2d39d02e445bb16001f6797100ed
+parameters: []
+headers:
+  - name: accept
+    value: application/json
+  - name: content-type
+    value: application/x-www-form-urlencoded
+  - name: origin
+    value: https://js.stripe.com
+  - name: referer
+    value: https://js.stripe.com/
+  - name: user-agent
+    value: Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like
+      Gecko) Chrome/116.0.0.0 Safari/537.36
+authentication: {}
+metaSortKey: -1642500212268.8281
+isPrivate: false
+pathParameters: []
+settingStoreCookies: true
+settingSendCookies: true
+settingDisableRenderRequestBody: false
+settingEncodeUrl: true
+settingRebuildPath: true
+settingFollowRedirects: global

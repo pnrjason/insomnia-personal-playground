@@ -1,0 +1,29 @@
+_id: req_569b2a2ef11e41f69352ba28b671c841
+type: Request
+parentId: fld_4a954d2da56b4dbf8cee9f78b4963c25
+modified: 1694056580396
+created: 1644293682942
+url: https://merchant-mgmt.revolut.com/api/public/payments/5cb5b3db-1a7c-4938-821b-1b1429957aa2
+name: "10"
+description: ""
+method: GET
+body: {}
+parameters: []
+headers:
+  - name: accept
+    value: application/json
+  - name: origin
+    value: https://merchant.revolut.com
+  - name: user-agent
+    value: Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like
+      Gecko) Chrome/116.0.0.0 Safari/537.36
+authentication: {}
+metaSortKey: -1642500211845
+isPrivate: false
+pathParameters: []
+settingStoreCookies: true
+settingSendCookies: true
+settingDisableRenderRequestBody: false
+settingEncodeUrl: true
+settingRebuildPath: true
+settingFollowRedirects: global

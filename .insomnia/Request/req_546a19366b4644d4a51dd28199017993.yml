@@ -1,0 +1,41 @@
+_id: req_546a19366b4644d4a51dd28199017993
+type: Request
+parentId: wrk_178b5797b30d4d2c883d8e6014163575
+modified: 1703264895709
+created: 1699645510237
+url: https://api.roller.app/api/payment
+name: Adyen
+description: ""
+method: POST
+body:
+  mimeType: application/json
+  text: '{"nonce":"{\"type\":\"scheme\",\"holderName\":\"\",\"encryptedCardNumber\":\"eyJhbGciOiJSU0EtT0FFUCIsImVuYyI6IkEyNTZDQkMtSFM1MTIiLCJ2ZXJzaW9uIjoiMSJ9.0V0mzejmWK4Ia6jN1BDVaLm8FypNXxTcaRrtgGo3qHKRfavid8h--2gPD-55ZrnRZ9suZ3D_eLhQhO288Noec90VpiKVah-vnbnSVT-PDgmNlkz4ozZMPvtXod8yxof4Fgq-_kurLN79aFdWAT80LOrkV7lD5sUVy9baW4dNGxiFWdLsk3XaE4OWPWpFLM2lfkfyyF0PTVdNsIS5El6id68LDbshseTueWxB2w5m77SIL3uud-HHBrrgPw0_7sz1vIuw2NToxTJpLPsOB6SgEsmHXN2nbDlgkmfi_jOC99e95A6Ky2ZsolaaHEtB00rzZV0eEqpXU_1E3QrlzmKhow.dAWazlmf7Xr-E_XBsu1RAQ.c2HJWghVpjmvtVvw7Zh_BPpy2jO4Y-CojacHWXUXU7YmzNFruk0tM_AHXFQlb_Lra7Y1l7kwD06YIL2CzCvh-dDpYb6dw26cGV2g5gwHTsowqrfvimn5YeKTf5WuhrFg0LtHlETw6Vhz3VXHtp28xKlcVJiMYwpVJe-lAsTOaTIZPMOoTJSQ-Q1eMaA2qLVFc0jJZOn3mVpQdY4jc1HAtznEbQbkOzjt73UenJbMwUhZ0PJ4s1sugx5ue-jDgiUncIOi9a8FW5bXfkv7a_8geyz1HguiAy_4ctv5b3Ez2vXzpdajhmHr7MgQoDQ7K3WBqJliQfOHSkfryB7tmXDaE89iIKyO1kVSJELRcBwc4jXWH6ZA-dxce9rqpk8kruVwDQLyGPcc8yQLd_G6FjQj9s0YHEsGLERY6vR-UVe8fawSIq94orG-vWiYGSWcQOZlRQWroJ1661BV9cicX9-I6WEV4KrnExzqfXaWM_djKmkTvMSOlKkFlyGHE5euUxR8fFQwfZhctb8cM3wo7Fkb9XNT-pl-kKMiCnOiSjH8qSWBNisJmD7Cp_yEghea1OQMAqCkXC2tRMb5yGGKl5aS7FFQ_zcWMVDrANO3G2UYBoE.g8FFYzJThKC-96lL6Cx-y_3schxdSVQIbwFRRDapc14\",\"encryptedExpiryMonth\":\"eyJhbGciOiJSU0EtT0FFUCIsImVuYyI6IkEyNTZDQkMtSFM1MTIiLCJ2ZXJzaW9uIjoiMSJ9.xco2G328G8csRAghT0KJiFDIFlla2SnTfyokDfWhtbtZGy73tDBGrTbaAgnB549ZG33GpOaMXvfi8JxemOHBvXZWsD62dMoE-WbphQD8eRHjvkPkjcOcM4Drqsqc-25FN6d1Z4mCWo7Ka1VqAsdUefE9jxVDGUoMuVnfIAGMCevnkirIO6uksaqXWflf3oC2kJTesbqJp95yQvdP3SYHOS98Hyn1aPzFo4z9kliE7FWFI63egwXhnhQQnQ3BVYhM3Kw5QGcgc9LRDjAE3GhdPl5iKCjkOxfNmAQFoIsh35ubvtJGp-pWVaA-c2VsKW3j-QMriXz-KRmDRQsEAGFf8A.7kxCk6b1909myJFavfHHcA.FcGYiBBzOdGXZ5C8Dtbt-zBoS8_XE0aoArj_qb4iGgXT11ERWyciWg3V3_FQP4DifBxHZMbAgyjsvfc_bzAzQQ.8kcpYQh30srKQyXhk-OapFYaijcyn2vPBvlyTPPIR6A\",\"encryptedExpiryYear\":\"eyJhbGciOiJSU0EtT0FFUCIsImVuYyI6IkEyNTZDQkMtSFM1MTIiLCJ2ZXJzaW9uIjoiMSJ9.YKwWXqEAxoxmdDIIcw1ENRNgxKuJ-5CMZrjVGwvNiNBR3t4sfmKQPn1xf9gN7-nWa3R2Q8E2tX_O4gvGJmHzKEw6cg6iTfyZuIBfYxNrOnHeQnJI2hhPvj8X6MUQNDUFTDdvYSZqW2IfOtMbEoN120aN0PtUQ7tuvtLjNMPyIQAYEsjQD7_Vgtvr6yieOdY2YzqiRMZ2nCOqFX2ahptBVRhbiBW7LGT2ic8qIOhDjSl3GIcf92jsQ8ZbjOZwfndozQqlQAAXjOa5MNPc5cXUa0iievzhq8d2f3PztE-FKc9y9k5AiP8_1nyNSwGKtqHTaWmr2Yl7WSyuMtUXrzyxaA.njK0aY5EtccJmcLOwrLuNA.EO6dz97E4fetpauEzQRh3FE1aIZzrClrsC4vxIdJROGNMxQ8-n3WudqFiTKuEyQGkBC-JHR5dTK_nCPiOVbYFA.eN0JgJ4buQhXDaPhNfHHH74_oQRh0oFxSZIKXRoGpk0\",\"encryptedSecurityCode\":\"eyJhbGciOiJSU0EtT0FFUCIsImVuYyI6IkEyNTZDQkMtSFM1MTIiLCJ2ZXJzaW9uIjoiMSJ9.CNvCNfhSF_tu_6HWYBrHSqHTXvhQaV99czqdjH6q57Jz5b8jijR5JrIma5MrjBVOlsbZM8mRwLqu8Dp_gGLwuT2s2rz_v80tda8u9MvFyhHbSIUl0imVA9zJ6o_PMt3D5-z46x0Rmq7TwzRYX7QTWdyJrFChZZb9yl-uKQqfyTrZcGbu6t6Wo7QzLHW5t2G4CzkSVFK7Ekfr-XfOikb8i_PyLqJuiYdD6pCEnaUXSiZ6WqRRm0HOqyKl6X3JIykGmlgVtRZT9MX4nbWT9LaAzbHrsaHGBjXWj5385uHiIOb7dySYSiM7aphC2WtunSOV_raCLFLdU3TJ-k3XOJzbmw.oYRlRhNyTRt_fqWjN7lmmw.zdQ_yRfx2hZ_DxWK3nEugttDE-ABNYKgS5XcwL0SHc8XKqq1aHySoOt4DBBRIn6qLCc2uoqc6P6Wkf7jjUfU8mGwl2SYJKwQrt9OzjeRY9sAuk3V7cPLszesFcgCoDJPbj7USxW5Gy4OowEZ2L029D9VGQBetRRDwxA3B066YyE3uxAr1wemBX8JvYEwo6T6-dyjk3CSCGUXRScl_8HE80iKfS9gkFKWoBt6bftJtbxWt2p97kgQeROcHzM5bh8scEB9332FLb7jeWg2A7OpQQLG21tq4St9iCGfhG87XAy5y5beS5qMSInd5yj07DHuJeJesi3kyZWRxDzSdLcm0bJKVN9_pdlsK2NYJxdASkbq7SWVtTgtXfQC893iVHA5LjRv_doxr5-8AZRLgEjhsE_ORriLwAYxv1wyaHYOlwaD248TUkVAiVXce6clMn7vipUzF1TRSHkBYWrwpIfhk2tfvCAWf5wFnL7c2E79-IU_wljHDgTYnl3Je356tZT9t2m9kItqGe1hOMt35Z4kqA._v7Y1vlP7QhAAF8Mce-sMeSruIfanfJhgcJFev_gDbc\",\"brand\":\"visa\"}","bookingId":"1wRw6K_6EUGpJjEnuRQDhQ","isPaypal":false,"kountDeviceData":null,"creditCardKey":null,"isNewPayment":true,"existingTransactionId":null,"isBPointPayment":false,"amount":"1","paymentMode":null,"hasPaResponse":false,"redirectUrl":"http://google.com","browserInfo":{"os":"5.0
+    (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko)
+    Chrome/119.0.0.0 Safari/537.36","userAgent":"Mozilla/5.0 (Windows NT 10.0;
+    Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/119.0.0.0
+    Safari/537.36","locale":"en-US","devicePixelRatio":1,"tzOffset":-480,"screen":{"width":1920,"height":1080,"colorDepth":24}},"isAdyenCheckout":true,"isPos":false,"additionalPaymentInfo":[]}'
+parameters: []
+headers:
+  - name: accept
+    value: application/json, text/plain, */*
+  - name: content-type
+    value: application/json;charset=UTF-8
+  - name: origin
+    value: https://checkout.roller.app
+  - name: referer
+    value: https://checkout.roller.app/
+  - name: user-agent
+    value: Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like
+      Gecko) Chrome/119.0.0.0 Safari/537.36
+  - name: X-Api-Key
+    value: australianreptilepark
+authentication: {}
+metaSortKey: -1699645510237
+isPrivate: false
+pathParameters: []
+settingStoreCookies: true
+settingSendCookies: true
+settingDisableRenderRequestBody: false
+settingEncodeUrl: true
+settingRebuildPath: true
+settingFollowRedirects: global

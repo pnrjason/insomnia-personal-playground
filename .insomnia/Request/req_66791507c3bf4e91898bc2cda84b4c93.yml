@@ -1,0 +1,41 @@
+_id: req_66791507c3bf4e91898bc2cda84b4c93
+type: Request
+parentId: fld_4a954d2da56b4dbf8cee9f78b4963c25
+modified: 1663719592715
+created: 1647743728865
+url: https://token.canadahelps.org/tokens/v2
+name: "15"
+description: ""
+method: POST
+body:
+  mimeType: application/json
+  text: '{"BillingAddress":{"Line1":"2970 Selah Way","Line2":"","City":"South
+    Burlington","Province":"VT","Country":"US","postalCode":"05403"},"CreditCardNumber":"4420632000021745","ExpiryDate":"202603","CVN":"111","PostalCode":"05403","CardHolderName":"Carolyn
+    Schuman"}'
+parameters: []
+headers:
+  - name: accept
+    value: "*/*"
+  - name: aspnet-sessionid
+    value: sncn3oeikii1qhgxeq0znwn2
+  - name: ch-onetimesession-token
+    value: OneTimeSession/7b7fa32f-0d23-48ba-b50d-163b35b76d18
+  - name: content-type
+    value: application/json
+  - name: origin
+    value: https://www.canadahelps.org
+  - name: referer
+    value: https://www.canadahelps.org/
+  - name: user-agent
+    value: Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like
+      Gecko) Chrome/102.0.0.0 Safari/537.36
+authentication: {}
+metaSortKey: -1642500211774.6875
+isPrivate: false
+pathParameters: []
+settingStoreCookies: true
+settingSendCookies: true
+settingDisableRenderRequestBody: false
+settingEncodeUrl: true
+settingRebuildPath: true
+settingFollowRedirects: global

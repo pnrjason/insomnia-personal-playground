@@ -1,0 +1,53 @@
+_id: req_fb27fe06bfb74061b97ec441020c504d
+type: Request
+parentId: wrk_178b5797b30d4d2c883d8e6014163575
+modified: 1708559892652
+created: 1706953340152
+url: https://collectcheckout.com/api/v4/cart
+name: New Request
+description: ""
+method: POST
+body:
+  mimeType: application/json
+  text: |-
+    {
+    	"type": "sale",
+    	"lineItems": [
+    		{
+    			"lineItemType": "customPayment",
+    			"description": "Payment",
+    			"currency": "USD"
+    		}
+    	],
+    	"successUrl": null,
+    	"cancelUrl": null,
+    	"receipt": {
+    		"showReceipt": true
+    	},
+    	"paymentMethods": [
+    		{
+    			"type": "creditCard",
+    			"use3DSecure": false
+    		}
+    	],
+    	"key": "checkout_public_e3K626gmnT2WS8T66b5A8W6ba24n6DDc"
+    }
+parameters: []
+headers:
+  - name: Accept
+    value: application/json, text/plain, */*
+  - name: Content-Type
+    value: application/json
+  - name: User-Agent
+    value: Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like
+      Gecko) Chrome/121.0.0.0 Safari/537.36
+authentication: {}
+metaSortKey: -1706953340152
+isPrivate: false
+pathParameters: []
+settingStoreCookies: true
+settingSendCookies: true
+settingDisableRenderRequestBody: false
+settingEncodeUrl: true
+settingRebuildPath: true
+settingFollowRedirects: global

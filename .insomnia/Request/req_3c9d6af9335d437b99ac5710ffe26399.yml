@@ -1,0 +1,68 @@
+_id: req_3c9d6af9335d437b99ac5710ffe26399
+type: Request
+parentId: fld_4a954d2da56b4dbf8cee9f78b4963c25
+modified: 1694072998529
+created: 1647738767072
+url: https://webordering-sp.qubeyond.com/api/basket/payments
+name: "14"
+description: ""
+method: POST
+body:
+  mimeType: application/json
+  text: '{"paymentTypeId":"271","g-recaptcha-response":"03ADUVZwAv7YQ3HvfjXywM-p-yxG-SoZdiSa7HT_FBfDbvfFf609MXpqtwVZbpdhIW8cB0h-PV16-46tRPgjwrjHsRD2aULY-6Qv5H0ZjAC3nDR8ijGuDv_8IYWpZq0pYaCErk7tf3hiLF-rJZy5COMeE_vT329kAFzb9kJ0E0qrH1emHSQ8mzXDTbb9CB9SHaKJRKo_3UPQYT_Vm_7Ad4hzBNSyGlXyxhCh-A8XLqXATzhvznXeljdxvdAzeylp3fxUAwnmGFYTsNKzh7wXAx8CLeUcV7DVMAB_860SnjrBMAtxkZp8xkkBnVKzCMHhFHqtGg5LXylVqynOqxQkI52DaJqFRgn1V2B0DWVhO_jVcMN8eKg731VdJW7-tYXuZo-KtOtm3EStL59PGVCTgcngXE6lrAZgZfgVJne7jHMKzNQ0lGeO1xaYi1fklx75qd8jLUgy_cGzXHnUcRHVemmYHuZ1uvjLnr3b-AGGXGJxCzQHKnDg_sYc4L1PlAjzmFhHx_9W8l6nxMB1IwXkXjAQ3iN2gZtwx1vWFduFpo3Y6S1IjsABnKJuFWl1IkFMtVLHmhYpsHexZsZ3u7TxAtSyzRFKeaIOAYSi4uNZNP94E4myQe7h6W5gizjqkL71n7HVvBf1rpu3wLobDTZ4hb1RU-8r96BNzyM5QFwrmTfd5MO1kVXTkqtrFkMB3Mft52Utb0xFGveS6eiFmlkiSEDu7Vff6_wti3tYUnUFRHnBot72kJRH6kkDIcbKzMq4496V9FTBfyYVqrctT_Bzi4e_Psk3Eh1ihxvhKeMSLn-LffynJC4JsNTw-z3wgokgFJ4Q-TlAG-2jFCYU1rsAo3-6L71HVp3-Q9DqbBeuWypzubUADxBt4lQHzzJdbBFQKCQrx8xNlKq21_CynazNO1oPW_xd8nTD_UQQdQeeqgiDl0b64zu-mMQX0NojAmYWGYtW4yXfYsY-OQ0eY0p2iIwIGA5IhVME_eSfULO2D19-YLHTYClIvPYv6vd2kjbyx_TFF-JN6HhXyd1TiwT7Nx4pQ2zQhiWKHOJHOYBRg-B2I66ObI2_EuEFWytOyADBje1KdLY-NYuAgl7MS6wZQPGN6CZ24JZzlQLrmZBz9Ac5-w9B6bBUUOawYIviLYE-BW_KKiHqVpTP4uV6ruu8w6Ilx9khpQ72bGgqx-tOxbd_JAdvaUnZO3UGt9uawTIgGVvoKFBcMaBMsEEFcgODQ5SG6PpVeIPuSS6QimZ1gjN-iQRGKjRIb5ZwI1GigunpofwPt-kuptGuKNRqCtcvASW9KH4_SzYxCtZUMytSuSqnsU_KWK2YyEbW5_MYJHDOpgti9Iu0ex0tZg-APjA3YbNGnUAjDVxOW8I7DbNigPZ9SYxVoUY9DlmpCCnFpUURNXtyu-stQ_txDCCj_gexHXszNLudOzWUCPaMJUtbeIl2ERQAlokm_zLX3XC_v_5Q9NNOZTjWm2p6lQrZZ83jOxAMMG16QEKTmL2uHHFrpbl-pIbcvg3fxsmXowMQ3WJiQHYwW-FsOrxjs5QDuO9NAxQDRfjD-J6nTq8Q"}'
+parameters: []
+headers:
+  - name: authority
+    value: webordering-sp.qubeyond.com
+  - name: accept
+    value: application/json
+  - name: accept-language
+    value: en-US,en;q=0.9,zh-CN;q=0.8,zh;q=0.7,ja-JP;q=0.6,ja;q=0.5,pt-BR;q=0.4,pt;q=0.3
+  - name: authorization
+    value: Bearer
+      eyJhbGciOiJkaXIiLCJlbmMiOiJBMjU2R0NNIn0..u1-EsTyDm9tlCY3q.LFE7R6SDExEhJROG5_o8zwT7vwjPdRfAXr6a5UMHqnZz3jKVk9fWgANfmNWcXiqSVn4okvtQ_2p02hDlr2N9Xytk1eyu48f-p-D3sb1fJaRL_sPCO792FQdg5PFfQA3M4rcENuhGgjM_610NNsrWcgYtoyNV9WwJim6Iqwkep7XCRvMrIoP_-A54H7Flu2D3eHZFYnyonDCwNZPgbBzZtVub5oSbpmF4pk3LgjylJ8ictnO8ycGJYBBZ3V2ieQPUcysHKrH6qJ6Qwysqkshcykynl7jk2_Y6Dqi_exjCBkrQFx6KQsfrW5ltltH5T_2N-eNTK2BfJwz3c9bi7en5VHqZZwt4K4tmyVcbrDE7Qxk-MfU0V8MqAHJpzPZVAFQ5MgVEFVV_mtSeZN_Cuq4kliYlbGLBQvjJFtikgYliDDyiMSf0_VtYpX1FhiWVcb1zmlXmTtIh_8etIW8Z-t4e1Dg2uewfANnAzr-jkElrq5KyuyScb8KHgkApMQo-gKIjdgLvMEzy5YkbP1dMbM3_3yEkXif2LLPQ3u9K64ghzevYo7GjQnqux8a1tDeMb06Ox-hv2e_mfa61-7LunFJf5JCBTucuU76wVHHRZJrFAy471VXUapw.naZdODk0YYyklGAXJlq7Xw
+  - name: clientid
+    value: "343"
+  - name: content-type
+    value: application/json
+  - name: cookie
+    value: _gcl_au=1.1.93948891.1694072824; _ga=GA1.2.896387774.1694072824;
+      _gid=GA1.2.216397842.1694072824; _gat_UA-63379933-1=1;
+      _gat_UA-121814751-5=1;
+      _ga_6D6LQ70TC9=GS1.1.1694072823.1.1.1694072842.0.0.0;
+      _ga_QXWNXW9E1Y=GS1.1.1694072823.1.1.1694072852.0.0.0
+  - name: ngsw-bypass
+    value: "true"
+  - name: origin
+    value: https://webordering-sp.qubeyond.com
+  - name: referer
+    value: https://webordering-sp.qubeyond.com/343/make-payment-screen
+  - name: request_time
+    value: "1694016000000"
+  - name: sec-ch-ua
+    value: '"Chromium";v="116", "Not)A;Brand";v="24", "Google Chrome";v="116"'
+  - name: sec-ch-ua-mobile
+    value: ?0
+  - name: sec-ch-ua-platform
+    value: '"Windows"'
+  - name: sec-fetch-dest
+    value: empty
+  - name: sec-fetch-mode
+    value: cors
+  - name: sec-fetch-site
+    value: same-origin
+  - name: user-agent
+    value: Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like
+      Gecko) Chrome/116.0.0.0 Safari/537.36
+  - name: x-transaction-id
+    value: o7tfmokm8
+authentication: {}
+metaSortKey: -1642500211779.375
+isPrivate: false
+pathParameters: []
+settingStoreCookies: true
+settingSendCookies: true
+settingDisableRenderRequestBody: false
+settingEncodeUrl: true
+settingRebuildPath: true
+settingFollowRedirects: global

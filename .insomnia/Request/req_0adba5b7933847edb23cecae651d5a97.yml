@@ -1,0 +1,43 @@
+_id: req_0adba5b7933847edb23cecae651d5a97
+type: Request
+parentId: wrk_178b5797b30d4d2c883d8e6014163575
+modified: 1707994721298
+created: 1700102934835
+url: http://localhost:3000/collectcheckout
+name: collectcheckout
+description: ""
+method: POST
+body:
+  mimeType: application/json
+  text: >-
+    {
+    	"card": "5113320375374472|10|2027|969|0|5bcac277-1c3b-4269-8b18-a3a74c500844|Aldebaran",
+    	"details": {
+    		"site_username": "laurymooe57703",
+    		"email": "laurymooe57703@gmail.com",
+    		"fname": "Laury",
+    		"lname": "Moore",
+    		"street": "201 W Walnut Ave",
+    		"city": "Dalton",
+    		"state": "GA",
+    		"state_name": "Georgia",
+    		"postcode": "90210",
+    		"phone": "7062783579"
+    	}
+    }
+parameters: []
+headers:
+  - name: accept
+    value: "*/*"
+  - name: content-type
+    value: application/json
+authentication: {}
+metaSortKey: -1697059924368.412
+isPrivate: false
+pathParameters: []
+settingStoreCookies: true
+settingSendCookies: true
+settingDisableRenderRequestBody: false
+settingEncodeUrl: true
+settingRebuildPath: true
+settingFollowRedirects: global

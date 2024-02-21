@@ -1,0 +1,38 @@
+_id: req_42bea9bc77bc4418b186e5e3900d2fb7
+type: Request
+parentId: fld_4a954d2da56b4dbf8cee9f78b4963c25
+modified: 1663289233715
+created: 1647743726921
+url: https://secure.nmi.com/token/api/create
+name: "20"
+description: ""
+method: POST
+body:
+  mimeType: application/x-www-form-urlencoded
+  params:
+    - name: tokenizationKey
+      value: 6ueyv3-YU9tb5-8nHM4g-Fkqb4R
+      id: pair_17dcec0a4f8c4937a9bd7debdbbf3bc2
+parameters: []
+headers:
+  - name: Accept
+    value: application/json, text/plain, */*
+  - name: Content-Type
+    value: application/x-www-form-urlencoded
+  - name: Origin
+    value: https://contractorcave.ca
+  - name: Referer
+    value: https://contractorcave.ca/
+  - name: User-Agent
+    value: Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like
+      Gecko) Chrome/102.0.0.0 Safari/537.36
+authentication: {}
+metaSortKey: -1642500211745
+isPrivate: false
+pathParameters: []
+settingStoreCookies: true
+settingSendCookies: true
+settingDisableRenderRequestBody: false
+settingEncodeUrl: true
+settingRebuildPath: true
+settingFollowRedirects: global

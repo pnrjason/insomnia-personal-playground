@@ -1,0 +1,61 @@
+_id: req_4321ed0890a24a03a0b207d1b8ebb499
+type: Request
+parentId: wrk_178b5797b30d4d2c883d8e6014163575
+modified: 1706870649626
+created: 1704009686990
+url: https://collectcheckout.com/collect-checkout/transaction.php
+name: New Request
+description: ""
+method: POST
+body:
+  mimeType: application/json
+  text: >-
+    {
+    	"email": "cqwe123@qw.com",
+    	"fullName": "cq qcw",
+    	"address1": "123 qwe",
+    	"city": "cqw",
+    	"state": "CA",
+    	"zip": "",
+    	"country": "US",
+    	"phone": "",
+    	"g-recaptcha-response": "03AFcWeA7aTikhAYrNZw0ovF5EBynSWGIx0N7tnsdtgwN4tgTLtrQ-TOeZl-eMUtd0WT2EG6KGyhrBWh-kloyDecOsKgmQZ9L_r2RpNbJqRqUVXY7pA6_RlNQX7-fGxXDD3VsiBAScZkLgryXygDLk3G4f1o2w4PAbfVah9bwNpPOygaVkJKi2xUQmDgiruYeJFID5ooXCfWCTjnB2S7s5g9RDBZuKq4zapWTcoYzeuOHN6Fsjax-6XJOvbQPpPQoMB5gDMFPqITJeMyZCE3ot-SC_xY6vIzsq6gVPbxW3iJLHHGZkkTkGV1QOqegwmU-xHh7VpRgIfGXIWQjDlGWfzfZSoAKpKEggz4UojGzlopd6wJsV0TardjFNEe3BHBUFYsIdIBT9mrBeXmKsVjiB3eYWP7oBFrYQ-yd-J7c4R_sp5ZdjTS1_oBxjmUIasy6m8gdBM3n3In1U2-CWHucxXjXB38RwDm7L5f-Izh3B2IIBDj89vGPLVQAV34nNvqsOcnwBZowd3-BOoY2QuC1rTRoEoWit_8h5_b_3mDFx23_XMAinu4MsdTO4mGmGX00PSjSruxehQUVOxbXrYILcIF2Beta4-SWPdI76reOMpj1OgZbGPI5n31A",
+    	"customPaymentAmount": 1,
+    	"paymentToken": "2S4z5n2v-ASC48Z-887v9U-RfU4Qzb6M33D",
+    	"tokenType": "inline",
+    	"cavv": null,
+    	"xid": null,
+    	"eci": null,
+    	"cardHolderAuth": null,
+    	"threeDsVersion": null,
+    	"tokenizationKey": "checkout_public_jXqCqF6U8vYtCPYEWTx35559DnnmSrV3",
+    	"directoryServerId": null,
+    	"secondsTakenToSubmitPayment": 60,
+    	"extraFields": [],
+    	"cartId": "f2ccc67d-560a-484d-a5ec-57535b8a94b7"
+    }
+parameters: []
+headers:
+  - name: Accept
+    value: application/json, text/plain, */*
+  - name: Content-Type
+    value: application/json
+  - name: Cookie
+    value: collect_checkout_cart=f2ccc67d-560a-484d-a5ec-57535b8a94b7
+  - name: Origin
+    value: https://collectcheckout.com
+  - name: Referer
+    value: https://collectcheckout.com/collect-checkout/?cartId=f2ccc67d-560a-484d-a5ec-57535b8a94b7
+  - name: User-Agent
+    value: Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like
+      Gecko) Chrome/120.0.0.0 Safari/537.36
+authentication: {}
+metaSortKey: -1704009686991
+isPrivate: false
+pathParameters: []
+settingStoreCookies: true
+settingSendCookies: true
+settingDisableRenderRequestBody: false
+settingEncodeUrl: true
+settingRebuildPath: true
+settingFollowRedirects: global

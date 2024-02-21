@@ -1,0 +1,30 @@
+_id: req_aa224ddf3f2745229d467c4e3066dca2
+type: Request
+parentId: wrk_178b5797b30d4d2c883d8e6014163575
+modified: 1700102727491
+created: 1698885466531
+url: http://localhost:3000/hyfin
+name: hyfin
+description: ""
+method: POST
+body:
+  mimeType: application/json
+  text: '{"card":"4757742006971364|12|2028|141","details":{"site_username":"rarianerath92029","email":"rarianerath92029@gmail.com","fname":"Kariane","lname":"Rath","street":"1931
+    Don Lee
+    Pl","city":"Escondido","state":"CA","state_name":"California","postcode":"92029","phone":"7607452444"}}'
+parameters: []
+headers:
+  - name: accept
+    value: "*/*"
+  - name: content-type
+    value: application/json
+authentication: {}
+metaSortKey: -1697076148853.2812
+isPrivate: false
+pathParameters: []
+settingStoreCookies: true
+settingSendCookies: true
+settingDisableRenderRequestBody: false
+settingEncodeUrl: true
+settingRebuildPath: true
+settingFollowRedirects: global

@@ -1,0 +1,36 @@
+_id: req_a108befbde154e16ad056067504c8238
+type: Request
+parentId: fld_4a954d2da56b4dbf8cee9f78b4963c25
+modified: 1694901827765
+created: 1643081773457
+url: https://vault.omise.co/tokens
+name: "7"
+description: ""
+method: POST
+body:
+  mimeType: application/json
+  text: '{"card":{"name":"cqw
+    wcq","number":"5264710327056721","expiration_month":"05","expiration_year":"2024"}}'
+parameters: []
+headers:
+  - name: accept
+    value: application/json
+  - name: authorization
+    value: Basic cGtleV81cG1xZGUwNHNkc3lmdXVmMmxuOg==
+  - name: content-type
+    value: application/json
+  - name: origin
+    value: https://vault.omise.co
+  - name: user-agent
+    value: Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like
+      Gecko) Chrome/116.0.0.0 Safari/537.36
+authentication: {}
+metaSortKey: -1642500212022.3438
+isPrivate: false
+pathParameters: []
+settingStoreCookies: true
+settingSendCookies: true
+settingDisableRenderRequestBody: false
+settingEncodeUrl: true
+settingRebuildPath: true
+settingFollowRedirects: global

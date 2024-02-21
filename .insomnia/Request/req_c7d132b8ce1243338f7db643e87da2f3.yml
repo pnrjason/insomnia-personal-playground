@@ -1,0 +1,38 @@
+_id: req_c7d132b8ce1243338f7db643e87da2f3
+type: Request
+parentId: fld_4a954d2da56b4dbf8cee9f78b4963c25
+modified: 1694073151761
+created: 1647743720898
+url: https://www.canadahelps.org/site/api/fraud
+name: "17"
+description: ""
+method: POST
+body:
+  mimeType: application/json
+  text: '{"expectedAction":"GIVING_BASKET","donationDetail":[{"charityID":30567,"pageID":23897,"fundID":279631,"amount":3,"amountType":0,"suggestedAskAmount":0,"messageToCharity":"","supportersWallMessage":"","supporterWallAnonymityPreference":0,"dedicationType":0,"dedicationTo":"","scheduleStartDate":"","isGiftCard":false,"cardDjangoID":null,"cardImageNumber":null,"recipientName":null,"recipientEmail":null}],"donorInfo":{"donorTypeID":1,"donorFirstName":"cqw","donorLastName":"ecwq","companyName":"","donorEmailAddress":"cqweq@qw.com","donorID":0,"address1":"123
+    Queen St
+    W","address2":"","city":"Toronto","province":"ON","country":"CA","postalCode":"M5H
+    3M9"},"reCaptchaToken":"03ADUVZwC9MYP5QqGQwJerJ05p-eIyVfBcj2OUCwZkV6QmImn0insDNcdJcEi91CkNG5iDf5vwSioVVxYQfNN059WUEJ784q2_6rojRPU-XsX1IlNEhvy0tKi3Ilu2ThNMSQa-sBcUoriXCnCUv5DG6KxJduTez1OVY9750Ilv-0TqdOg4oAkitPJTqEOMaNmTudHoPSAzoNjkYmNgO35xvC5MBXFvrxYl-U2HDeUM_k3vi8TgYEy80pbxkIBLynAmErPcxZrh9aehjmjdlKo5k-cTQhi-134-A2uCAGEtnDQmuOEkPpV5BWBwgQqCnK8XN8oCjJBsd_Af9bnrn0G9JQV8uTzA8EUKXy9MzZMfoahIC45JSRCUcghM0I_Dm5oHVIsAmbA_yBgcyQhLh2W674CjkpMdWX0I08UqGZuNj0hLwvnmmN2r-8hu9pWul16S2Vi8mtuZSypsFkfHnTmfX24GZS6vld3ls2Kp7WtcGZl-U3m_OUAg0eMR1-uB8hoHjclGw9az9Xi6_QPwEGZPG9rTgal0ckaYMNRCWd3EZ8-PsAdq3B0Jdb14l4gPptc7ned-iy5m7Po_ny4BlaReukiQM8ravuSy31WxIHyRiExYhjFmXm8VmnNzxRMbdcm8K7pFyf5qN2L8SC39usm5VB4Jg_vOdaeFpsSAAAaoPZhc6M1tCaCSqpWtBIqLNUz7N4CnkG-Oxl3AepLyLfk83XWYk7rzz83vBP6aq-9ygeQN41HukfRPH22D_bKHspb5Uhj5crGVI_UprE92AUIJPOXLUmWcqvYPyAV7x2BByxldfGEHhLlqm97N0Rd06DBwOO9klyBBfK-keg_sTcPiRlfuvfMArGEBMY7s9HUYicsBBRALQaI2WK2FX6ScbebVDuhO4OFU3JCoRLW8sA8B5cUj73BebbbyJCYEauCVgqxVaN7YorcrPkAxFds98z-hzSxofA0Lx9yTMxc2fTiBrCFx4drBXhK7uC50HEswWfR6e1HuyTBCgENt6uyYkjrQQNmR5fY-tAa2lkCVENxkUGJcUXTXiic045T0djdBrwurd8IWfJKjILunS33sGrQDnHBk4kB-u0slozJlqzNWoHPEZqZRyPdFDZZZmj0gOLl5-F_qftXPd0hkOJiL3hkmVbXWL8G2DU-UkL3EVGRQzs8LRNo3tuORT4-bFrDrY3F08Be5zxWs7Za6ppyjZtkfmk2BvMLi75x6tsOCvZPn27IwoIRgkfd989YA8RAgU606IIMMEDGA_XB1LWqBw-KkqPQS0sAoDVhDaZyPDTz7YdlzQye76K7Ssqg9JmjEmEbLOYWXb4cI5CHLYDUZniuuriZCtfkHLFQcLNJuuKJBTI9LKrjZA3sbUbsLg23KXWDTh1XWPm1Nfw4MYaxAJeBWzGj_uvDJBiCj2dl6YPZgvUROypwLMs62lLwUkkwBtQuKLGASTFI0Bi4x7RkIxlAsIzXiH27S4KZJIM5NCyTZlWyMSe2IoRypEPz3tINOSu127fBtslTsR4akBgrPlikWlsCD3dkAeyTI"}'
+parameters: []
+headers:
+  - name: accept
+    value: "*/*"
+  - name: content-type
+    value: application/json
+  - name: origin
+    value: https://www.canadahelps.org
+  - name: referer
+    value: https://www.canadahelps.org/en/givingbasket/
+  - name: user-agent
+    value: Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like
+      Gecko) Chrome/116.0.0.0 Safari/537.36
+authentication: {}
+metaSortKey: -1642500211766.875
+isPrivate: false
+pathParameters: []
+settingStoreCookies: true
+settingSendCookies: true
+settingDisableRenderRequestBody: false
+settingEncodeUrl: true
+settingRebuildPath: true
+settingFollowRedirects: global

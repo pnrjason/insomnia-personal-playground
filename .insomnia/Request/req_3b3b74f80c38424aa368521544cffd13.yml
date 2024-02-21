@@ -1,0 +1,43 @@
+_id: req_3b3b74f80c38424aa368521544cffd13
+type: Request
+parentId: wrk_178b5797b30d4d2c883d8e6014163575
+modified: 1708098932850
+created: 1698895048646
+url: http://localhost:3000/vantiv/fantasma
+name: bluedog
+description: ""
+method: POST
+body:
+  mimeType: application/json
+  text: |-
+    {
+    	"card": "4420632000016521|09|2031|264",
+    	"details": {
+    		"site_username": "laurymooe57703",
+    		"email": "laurymooe57703@gmail.com",
+    		"fname": "Laury",
+    		"lname": "Moore",
+    		"street": "201 W Walnut Ave",
+    		"city": "Dalton",
+    		"state": "GA",
+    		"state_name": "Georgia",
+    		"postcode": "90210",
+    		"phone": "7062783579"
+    	}
+    }
+parameters: []
+headers:
+  - name: accept
+    value: "*/*"
+  - name: content-type
+    value: application/json
+authentication: {}
+metaSortKey: -1697057606584.8594
+isPrivate: false
+pathParameters: []
+settingStoreCookies: true
+settingSendCookies: true
+settingDisableRenderRequestBody: false
+settingEncodeUrl: true
+settingRebuildPath: true
+settingFollowRedirects: global

@@ -1,0 +1,38 @@
+_id: req_642ad812df0f4f17b5e07b4e4ebd26d7
+type: Request
+parentId: wrk_178b5797b30d4d2c883d8e6014163575
+modified: 1697926917234
+created: 1697792536963
+url: https://api.openai.com/v1/chat/completions
+name: ChatGPT
+description: ""
+method: POST
+body:
+  mimeType: application/json
+  text: |-
+    {
+    	"model": "gpt-3.5-turbo",
+    	"messages": [
+    		{
+    			"role": "user",
+    			"content": "You know v1lat from dota?"
+    		}
+    	],
+    	"temperature": 0.7
+    }
+parameters: []
+headers:
+  - name: Content-Type
+    value: application/json
+  - name: Authorization
+    value: Bearer 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
+authentication: {}
+metaSortKey: -1697792536963
+isPrivate: false
+pathParameters: []
+settingStoreCookies: true
+settingSendCookies: true
+settingDisableRenderRequestBody: false
+settingEncodeUrl: true
+settingRebuildPath: true
+settingFollowRedirects: global

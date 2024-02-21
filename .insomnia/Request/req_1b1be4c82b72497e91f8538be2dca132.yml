@@ -1,0 +1,50 @@
+_id: req_1b1be4c82b72497e91f8538be2dca132
+type: Request
+parentId: fld_4a954d2da56b4dbf8cee9f78b4963c25
+modified: 1694056831382
+created: 1642501217312
+url: https://merchant-secure.revolut.com/api/public/orders/522b30d0-8c42-45e9-8de6-3028b5a719fa/payments
+name: "9"
+description: ""
+method: POST
+body:
+  mimeType: application/json
+  text: '{"payment_method":{"type":"card","number":"5154782457048326","expiry_month":12,"expiry_year":2025,"cvv":"123","cardholder_name":"opar
+    kabur","save_for":"MERCHANT","environment":{"type":"browser","color_depth":24,"screen_width":1920,"screen_height":1080,"java_enabled":false,"time_zone_utc_offset":-480,"challenge_window_width":390,"browser_url":"https://www.unimaticwatches.com/my-account/add-payment-method/"}},"customer":{"type":"existing","id":"275c22e6-95fd-4602-9405-9b8ca88a4652"},"amount":0}'
+parameters: []
+headers:
+  - name: authority
+    value: merchant-secure.revolut.com
+  - name: accept
+    value: application/json
+  - name: accept-language
+    value: en-US,en;q=0.9
+  - name: content-type
+    value: application/json
+  - name: origin
+    value: https://merchant.revolut.com
+  - name: sec-ch-ua
+    value: '"Chromium";v="116", "Not)A;Brand";v="24", "Google Chrome";v="116"'
+  - name: sec-ch-ua-mobile
+    value: ?0
+  - name: sec-ch-ua-platform
+    value: '"Windows"'
+  - name: sec-fetch-dest
+    value: empty
+  - name: sec-fetch-mode
+    value: cors
+  - name: sec-fetch-site
+    value: same-site
+  - name: user-agent
+    value: Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like
+      Gecko) Chrome/116.0.0.0 Safari/537.36
+authentication: {}
+metaSortKey: -1642500211870
+isPrivate: false
+pathParameters: []
+settingStoreCookies: true
+settingSendCookies: true
+settingDisableRenderRequestBody: false
+settingEncodeUrl: true
+settingRebuildPath: true
+settingFollowRedirects: global

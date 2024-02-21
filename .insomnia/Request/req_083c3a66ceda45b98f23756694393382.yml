@@ -1,0 +1,30 @@
+_id: req_083c3a66ceda45b98f23756694393382
+type: Request
+parentId: wrk_178b5797b30d4d2c883d8e6014163575
+modified: 1699632207715
+created: 1698573009707
+url: http://localhost:3000/oblatesusa
+name: oblatesusa
+description: ""
+method: POST
+body:
+  mimeType: application/json
+  text: '{"card":"4218082408803433|10|2025|515|2","details":{"site_username":"rarianerath92029","email":"rarianerath92029@gmail.com","fname":"Kariane","lname":"Rath","street":"1931
+    Don Lee
+    Pl","city":"Escondido","state":"CA","state_name":"California","postcode":"92029","phone":"7607452444"}}'
+parameters: []
+headers:
+  - name: accept
+    value: "*/*"
+  - name: content-type
+    value: application/json
+authentication: {}
+metaSortKey: -1697039064316.4375
+isPrivate: false
+pathParameters: []
+settingStoreCookies: true
+settingSendCookies: true
+settingDisableRenderRequestBody: false
+settingEncodeUrl: true
+settingRebuildPath: true
+settingFollowRedirects: global

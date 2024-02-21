@@ -1,0 +1,35 @@
+_id: req_79304dc9c5154db3a0f4bd231a3aaba0
+type: Request
+parentId: fld_4a954d2da56b4dbf8cee9f78b4963c25
+modified: 1664519151384
+created: 1647801868835
+url: https://secure.nmi.com/token/api/save_multipart_token
+name: "21"
+description: ""
+method: POST
+body:
+  mimeType: application/json
+  text: '{"tokenizationKey":"6ueyv3-YU9tb5-8nHM4g-Fkqb4R","tokenId":"ng5ghRQ9-PjkCxe-QJT44v-62zm3emEYXrD","data":[{"elementId":"cvv","cvvDisplay":false,"value":"123"}]}'
+parameters: []
+headers:
+  - name: Accept
+    value: "*/*"
+  - name: Content-type
+    value: application/json;charset=UTF-8
+  - name: Origin
+    value: https://secure.nmi.com
+  - name: Referer
+    value: https://secure.nmi.com/token/inline.php?tokenizationKey=6ueyv3-YU9tb5-8nHM4g-Fkqb4R&token=7RA63AbR-UpHj2x-4Py2Dg-wE63uCWaWpPw&elementId=cvv&title=&placeholder=CVC&cvvDisplay=show
+  - name: User-Agent
+    value: Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like
+      Gecko) Chrome/102.0.0.0 Safari/537.36
+authentication: {}
+metaSortKey: -1642500211720
+isPrivate: false
+pathParameters: []
+settingStoreCookies: true
+settingSendCookies: true
+settingDisableRenderRequestBody: false
+settingEncodeUrl: true
+settingRebuildPath: true
+settingFollowRedirects: global

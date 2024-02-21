@@ -1,0 +1,28 @@
+_id: req_c3c0d6e4c8f84a968ae420254f74bfdc
+type: Request
+parentId: wrk_178b5797b30d4d2c883d8e6014163575
+modified: 1698927350590
+created: 1698562135886
+url: https://raven-playwright.up.railway.app/adyen
+name: adyen
+description: ""
+method: POST
+body:
+  mimeType: application/json
+  text: '{"card":"5143531109119876|03|2027|525|5"}'
+parameters: []
+headers:
+  - name: accept
+    value: "*/*"
+  - name: content-type
+    value: application/json
+authentication: {}
+metaSortKey: -1697113233390.125
+isPrivate: false
+pathParameters: []
+settingStoreCookies: true
+settingSendCookies: true
+settingDisableRenderRequestBody: false
+settingEncodeUrl: true
+settingRebuildPath: true
+settingFollowRedirects: global

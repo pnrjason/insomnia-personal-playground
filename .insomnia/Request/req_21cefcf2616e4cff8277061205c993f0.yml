@@ -1,0 +1,77 @@
+_id: req_21cefcf2616e4cff8277061205c993f0
+type: Request
+parentId: wrk_178b5797b30d4d2c883d8e6014163575
+modified: 1706816267294
+created: 1703264563265
+url: https://contractorcave.ackroo.net/en/gift_issue_orders
+name: New Request
+description: ""
+method: POST
+body:
+  mimeType: application/x-www-form-urlencoded
+  params:
+    - name: utf8
+      value: ✓
+      id: pair_b3a78b5fa1c9486d86b1271612ee7ff5
+    - name: authenticity_token
+      value: Z/p4FnvI1a28SPavUsB/f3c3hY/dt+WdLAI6zBuRQEoOz1J4K8CVLI3bJkifbRNyVs+5CyfWe5l4KlUwNKzSVA==
+      id: pair_61d7538b8e8148ddb1e30aad4795b891
+    - name: token
+      value: c52-988d04c0-0f42-4045-a9e4-2638b968c7e6
+      id: pair_fa6608c93b84414ab9c1bdc1660757ce
+    - name: bambora
+      value: "true"
+      id: pair_8e1c6b2354b640e8bef16dbbc9946e46
+    - name: g-recaptcha-response
+      value: ""
+      id: pair_b1ce8cac09224a1789d71873630f039b
+    - name: billing_name
+      value: cq qec
+      id: pair_21e611fb67e94447b3359f4c9964f0d6
+    - name: billing_email
+      value: cqwex23@qw.com
+      id: pair_39958bf4c5f641d6858048abe53ec319
+    - name: billing_phone_number
+      value: "6504313449"
+      id: pair_7ae6d57295254fa8ab273288e2b78ac7
+    - name: billing_address1
+      value: 123 street
+      id: pair_0d1ee81ac3224077ab4a5c08fd67bed6
+    - name: billing_city
+      value: ca
+      id: pair_afa883091e0f46e7a78ab8e78c1eb907
+    - name: billing_postal_code
+      value: "90210"
+      id: pair_4a8717c5572b4f6dbf89cc56d44abbf1
+    - name: billing_country
+      value: US
+      id: pair_c2726782a52d4d3289d49fe1baff549d
+    - name: billing_province
+      value: CA
+      id: pair_343945c7552e4067aa940c467582b256
+    - name: cardholder_name
+      value: cwqe eqe
+      id: pair_c31cbcc6313c44bb95f67a2f9abde325
+parameters: []
+headers:
+  - name: accept
+    value: text/html,application/xhtml+xml,application/xml;q=0.9,image/avif,image/webp,image/apng,*/*;q=0.8,application/signed-exchange;v=b3;q=0.7
+  - name: content-type
+    value: application/x-www-form-urlencoded
+  - name: origin
+    value: https://contractorcave.ackroo.net
+  - name: referer
+    value: https://contractorcave.ackroo.net/en/gift_issue_orders/new
+  - name: user-agent
+    value: Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like
+      Gecko) Chrome/120.0.0.0 Safari/537.36
+authentication: {}
+metaSortKey: -1700097875722.125
+isPrivate: false
+pathParameters: []
+settingStoreCookies: true
+settingSendCookies: true
+settingDisableRenderRequestBody: false
+settingEncodeUrl: true
+settingRebuildPath: true
+settingFollowRedirects: global

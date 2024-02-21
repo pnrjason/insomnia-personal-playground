@@ -1,0 +1,31 @@
+_id: req_bd305b2ce0e54f6994340907066588df
+type: Request
+parentId: fld_f7d757d6b75841e0ad2997f615f3f15a
+modified: 1692508145137
+created: 1652737252070
+url: https://api.capmonster.cloud/getBalance
+name: GetBalance
+description: ""
+method: POST
+body:
+  mimeType: ""
+  text: |-
+    {
+        "clientKey":"6432833274bf76678dfcbf764fc67ec3"
+    }
+parameters: []
+headers:
+  - name: accept
+    value: text/html,application/xhtml+xml,application/xml;q=0.9,image/avif,image/webp,image/apng,*/*;q=0.8,application/signed-exchange;v=b3;q=0.9
+  - name: Content-Type
+    value: application/json
+authentication: {}
+metaSortKey: -1642695553760.9092
+isPrivate: false
+pathParameters: []
+settingStoreCookies: true
+settingSendCookies: true
+settingDisableRenderRequestBody: false
+settingEncodeUrl: true
+settingRebuildPath: true
+settingFollowRedirects: global

@@ -1,0 +1,45 @@
+_id: req_6804229ca2454fd487cd837b0ee7e1d0
+type: Request
+parentId: wrk_178b5797b30d4d2c883d8e6014163575
+modified: 1698339298934
+created: 1697812874861
+url: https://api.fedex.com/track/v2/shipments
+name: FedEx
+description: ""
+method: POST
+body:
+  mimeType: application/json
+  text: '{"appDeviceType":"WTRK","appType":"WTRK","supportCurrentLocation":true,"trackingInfo":[{"trackNumberInfo":{"trackingCarrier":"","trackingNumber":"626881403252","trackingQualifier":""}}],"uniqueKey":""}'
+parameters: []
+headers:
+  - name: accept
+    value: application/json
+  - name: authorization
+    value: Bearer l7b8ada987a4544ff7a839c8e1f6548eea
+  - name: content-type
+    value: application/json
+  - name: origin
+    value: https://www.fedex.com
+  - name: referer
+    value: https://www.fedex.com/fedextrack/?trknbr=626881403252
+  - name: user-agent
+    value: Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like
+      Gecko) Chrome/118.0.0.0 Safari/537.36
+  - name: x-clientid
+    value: WTRK
+  - name: x-locale
+    value: en_US
+  - name: x-requested-with
+    value: XMLHttpRequest
+  - name: x-version
+    value: 1.0.0
+authentication: {}
+metaSortKey: -1697812874861
+isPrivate: false
+pathParameters: []
+settingStoreCookies: true
+settingSendCookies: true
+settingDisableRenderRequestBody: false
+settingEncodeUrl: true
+settingRebuildPath: true
+settingFollowRedirects: global

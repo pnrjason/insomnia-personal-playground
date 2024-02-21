@@ -1,0 +1,35 @@
+_id: req_9f9ebc2588e143269a14ca466ada11b2
+type: Request
+parentId: fld_4a954d2da56b4dbf8cee9f78b4963c25
+modified: 1663288645487
+created: 1647801873191
+url: https://secure.nmi.com/token/api/lookup
+name: "24"
+description: ""
+method: POST
+body:
+  mimeType: application/json
+  text: '{"tokenId":"ng5ghRQ9-PjkCxe-QJT44v-62zm3emEYXrD","tokenizationKey":"6ueyv3-YU9tb5-8nHM4g-Fkqb4R"}'
+parameters: []
+headers:
+  - name: Accept
+    value: application/json, text/plain, */*
+  - name: Content-Type
+    value: application/json
+  - name: Origin
+    value: https://contractorcave.ca
+  - name: Referer
+    value: https://contractorcave.ca/
+  - name: User-Agent
+    value: Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like
+      Gecko) Chrome/102.0.0.0 Safari/537.36
+authentication: {}
+metaSortKey: -1642500211698.125
+isPrivate: false
+pathParameters: []
+settingStoreCookies: true
+settingSendCookies: true
+settingDisableRenderRequestBody: false
+settingEncodeUrl: true
+settingRebuildPath: true
+settingFollowRedirects: global

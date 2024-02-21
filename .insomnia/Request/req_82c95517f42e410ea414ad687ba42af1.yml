@@ -1,0 +1,38 @@
+_id: req_82c95517f42e410ea414ad687ba42af1
+type: Request
+parentId: fld_4a954d2da56b4dbf8cee9f78b4963c25
+modified: 1664519166024
+created: 1647738765480
+url: https://codebeautify.org/randomData
+name: "16"
+description: ""
+method: POST
+body:
+  mimeType: application/x-www-form-urlencoded
+  params:
+    - name: type
+      value: address
+      id: pair_b36a66999e364c5f8e2b93f318241eee
+parameters: []
+headers:
+  - name: accept
+    value: "*/*"
+  - name: content-type
+    value: application/x-www-form-urlencoded
+  - name: origin
+    value: https://codebeautify.org
+  - name: referer
+    value: https://codebeautify.org/random-address-generator
+  - name: user-agent
+    value: Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like
+      Gecko) Chrome/105.0.0.0 Safari/537.36
+authentication: {}
+metaSortKey: -1642500211770
+isPrivate: false
+pathParameters: []
+settingStoreCookies: true
+settingSendCookies: true
+settingDisableRenderRequestBody: false
+settingEncodeUrl: true
+settingRebuildPath: true
+settingFollowRedirects: global

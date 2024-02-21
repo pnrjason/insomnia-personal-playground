@@ -1,0 +1,98 @@
+_id: req_789c10a5937c4d659b8d2d9ab79a01dc
+type: Request
+parentId: fld_4a954d2da56b4dbf8cee9f78b4963c25
+modified: 1694058494346
+created: 1647742149493
+url: https://api.stripe.com/v1/setup_intents/seti_1NnZC9AlGV0DvmbUNwIjPhN5/confirm
+name: "12.4"
+description: ""
+method: POST
+body:
+  mimeType: application/x-www-form-urlencoded
+  params:
+    - name: payment_method_data[type]
+      value: card
+      id: pair_7b9b6da6b8a346539d65026c8605fb22
+    - name: payment_method_data[card][number]
+      value: 4191+6200+2212+6805
+      id: pair_fc4c26a3d3234d8f8f1da64e654c0549
+    - name: payment_method_data[card][cvc]
+      value: "123"
+      id: pair_f112d79bf13f45a289eafe09466a11c6
+    - name: payment_method_data[card][exp_year]
+      value: "25"
+      id: pair_937aecf0df5743e5ba2e4671f5473df6
+    - name: payment_method_data[card][exp_month]
+      value: "03"
+      id: pair_9aaa2c0444154211ab6a74a3cbf3ac7d
+    - name: payment_method_data[billing_details][address][country]
+      value: PH
+      id: pair_49127fd89182423bac9b7506abaaa167
+    - name: payment_method_data[payment_user_agent]
+      value: stripe.js/0cdef2517d;+stripe-js-v3/0cdef2517d;+payment-element;+deferred-intent
+      id: pair_137dd8915136430aa9e92d89dbe924ab
+    - name: payment_method_data[time_on_page]
+      value: "9172"
+      id: pair_2dad855e63b343a6b70cfccad507b1f9
+    - name: payment_method_data[guid]
+      value: 659fd8b8-29cc-4ac9-ba1f-6a5f023c4281d598f1
+      id: pair_dacd37c5703241bdb041d79864f76710
+    - name: payment_method_data[muid]
+      value: 6dd18c8e-e976-4dac-8d86-74f1391c5b76e6c94b
+      id: pair_5e6704256c194814b540572d5039f177
+    - name: payment_method_data[sid]
+      value: ba82c358-da58-4369-a23d-fd03081d9c4fc82e9e
+      id: pair_ca063750ae7048e8bdc346ba3d877535
+    - name: expected_payment_method_type
+      value: card
+      id: pair_6c887be8ab8b4d2f84e741f02fa34c94
+    - name: client_context[mode]
+      value: setup
+      id: pair_04ee0613886e438b8349779a544c711b
+    - name: client_context[setup_future_usage]
+      value: off_session
+      id: pair_e6c15e6eab9c49dd95c94c07ad1191b2
+    - name: client_context[payment_method_types][0]
+      value: card
+      id: pair_aa2d015ba576453e851c368ac3e72d55
+    - name: client_context[payment_method_types][1]
+      value: link
+      id: pair_92876e5ae83148f985a1d9876a83e407
+    - name: use_stripe_sdk
+      value: "true"
+      id: pair_ce3c39a3f75f4f6abc9eb70fa6a10ddb
+    - name: key
+      value: pk_live_51FbJozAlGV0DvmbUQcIQD7K1ct2F1bFsALBYMx1SliNwaT4k6Xs8iavv7jo254r0ySxBdur1cuIbHthcQmgYwLcK00tLgiFXAL
+      id: pair_457dd868607c45e9b0bc0a7b44a882f3
+    - name: _stripe_account
+      value: acct_1FbJozAlGV0DvmbU
+      id: pair_fb933e256ed0456bb0bc1a4b0d34f2fe
+    - name: _stripe_version
+      value: 2022-08-01
+      id: pair_119fb39b2e714029b4bfd0d7772dcb5a
+    - name: client_secret
+      value: seti_1NnZC9AlGV0DvmbUNwIjPhN5_secret_Oakht3W31DBeXhaNEmqdE0w2x1a7hTH
+      id: pair_b543b9818fa947a0b1235c905c68a698
+parameters: []
+headers:
+  - name: accept
+    value: application/json
+  - name: content-type
+    value: application/x-www-form-urlencoded
+  - name: origin
+    value: https://js.stripe.com
+  - name: referer
+    value: https://js.stripe.com/
+  - name: user-agent
+    value: Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like
+      Gecko) Chrome/116.0.0.0 Safari/537.36
+authentication: {}
+metaSortKey: -1642500211790.3125
+isPrivate: false
+pathParameters: []
+settingStoreCookies: true
+settingSendCookies: true
+settingDisableRenderRequestBody: false
+settingEncodeUrl: true
+settingRebuildPath: true
+settingFollowRedirects: global

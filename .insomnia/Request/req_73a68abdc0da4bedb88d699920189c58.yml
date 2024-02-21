@@ -1,0 +1,101 @@
+_id: req_73a68abdc0da4bedb88d699920189c58
+type: Request
+parentId: wrk_178b5797b30d4d2c883d8e6014163575
+modified: 1706816049266
+created: 1703264459694
+url: https://contractorcave.ackroo.net/en/gifts
+name: New Request
+description: ""
+method: POST
+body:
+  mimeType: application/x-www-form-urlencoded
+  params:
+    - name: utf8
+      value: ✓
+      id: pair_f7a708fc7ea94ab481dd3cef37a44164
+    - name: authenticity_token
+      value: jgbJ1WuVPv0BmRAiE7vpRO0e6JeE38nMU83PH1YUJBTnM+O7O51+fDAKwMXeFoVJzObUE36+V8gH5aDjeSm2Cg==
+      id: pair_17b8af3fe91c4e1eb971d299c44b4737
+    - name: gift[card_type]
+      value: carousel
+      id: pair_d2667b2acee14ef9a10b2146ab535d0f
+    - name: gift[page_errors]
+      value: ""
+      id: pair_35e87af771a54ad4b1597bc7239f34a7
+    - name: gift[merchant_id]
+      value: "1219"
+      id: pair_3e0a65b8d1a446cfaeb2275eae9c6cd1
+    - name: gift[card_art]
+      value: "1"
+      id: pair_94c3703b62554d1ba549975f4a7b414e
+    - name: gift[card_art_index]
+      value: "802"
+      id: pair_b2a0c23faa4e40899ac5240300cd9613
+    - name: gift[value]
+      value: ""
+      id: pair_991f3aa4f8564ca7aa7ebf355bc653eb
+    - name: gift[free_form_value]
+      value: "1"
+      id: pair_b31715f4802a4cbba733409d16dfb569
+    - name: gift[quantity]
+      value: "1"
+      id: pair_4578ef8ef6b04f85be819dcf71d2a8a8
+    - name: gift[message]
+      value: ""
+      id: pair_2086aae559b045f4ab77547fa86fe7b3
+    - name: gift[recipient_name]
+      value: qw
+      id: pair_190d167525824051ad97eb48c1a038e8
+    - name: gift[recipient_email]
+      value: cqweqwx123@qw.com
+      id: pair_617ff00cd2ff4c8ab5a746aae6a592c4
+    - name: gift[recipient_email_confirmation]
+      value: cqweqwx123@qw.com
+      id: pair_ae737efc9fe64b018656e0d38096114f
+    - name: gift[buyer_firstname]
+      value: qcw
+      id: pair_ef7e7b950a8f441eb5c436e69183f13b
+    - name: gift[buyer_lastname]
+      value: cqw
+      id: pair_9347dc2749dd4aa2b733e76c454f7819
+    - name: gift[sender_email]
+      value: cqweqwx123@qw.com
+      id: pair_ffc9db5f03c747bfbfdfc178fc2af1b4
+    - name: gift[sender_email_confirmation]
+      value: cqweqwx123@qw.com
+      id: pair_0d7c07d554e64275a621089fc6b87123
+    - name: gift[deliver_at_datetime]
+      value: 2024-02-03 00 AM
+      id: pair_3db1c456b55d4caa96bbbd09c5ed005e
+    - name: gift[deliver_at_timezone]
+      value: Asia/Manila
+      id: pair_3fe8d8597466411b8738647feedb9e71
+    - name: gift[terms_of_service]
+      value: "0"
+      id: pair_75b3908593134ac394bad36419b2bf16
+    - name: gift[terms_of_service]
+      value: "1"
+      id: pair_5f9671001d9c4bee9fc7240bc9c0db88
+parameters: []
+headers:
+  - name: Content-Type
+    value: application/x-www-form-urlencoded
+  - name: accept
+    value: text/html,application/xhtml+xml,application/xml;q=0.9,image/avif,image/webp,image/apng,*/*;q=0.8,application/signed-exchange;v=b3;q=0.7
+  - name: origin
+    value: https://contractorcave.ackroo.net
+  - name: referer
+    value: https://contractorcave.ackroo.net/en/gifts/new
+  - name: user-agent
+    value: Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like
+      Gecko) Chrome/120.0.0.0 Safari/537.36
+authentication: {}
+metaSortKey: -1701454972177.5
+isPrivate: false
+pathParameters: []
+settingStoreCookies: true
+settingSendCookies: true
+settingDisableRenderRequestBody: false
+settingEncodeUrl: true
+settingRebuildPath: true
+settingFollowRedirects: global

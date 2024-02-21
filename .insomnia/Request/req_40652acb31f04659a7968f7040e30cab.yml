@@ -1,0 +1,42 @@
+_id: req_40652acb31f04659a7968f7040e30cab
+type: Request
+parentId: fld_f7d757d6b75841e0ad2997f615f3f15a
+modified: 1693067225852
+created: 1673076209351
+url: https://api.capmonster.cloud/createTask
+name: NoCaptcha
+description: ""
+method: POST
+body:
+  mimeType: application/json
+  text: >-
+    {
+        "clientKey":"6432833274bf76678dfcbf764fc67ec3",
+        "task": {
+            "type": "NoCaptchaTask",
+            "websiteURL": "https://oblatesusa.org/donate-2/",
+            "websiteKey": "6Le9JrAUAAAAAI_0Rsff9ixTjCDXoMPG3hzMIQHX",
+            "proxyType": "http",
+            "proxyAddress": "gate.dc.smartproxy.com",
+            "proxyPort": 20000,
+            "proxyLogin": "sprxa2crgk",
+            "proxyPassword": "Ewzwewec2321",
+            "userAgent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/116.0.0.0 Safari/537.36"
+        }
+    }
+parameters: []
+headers:
+  - name: accept
+    value: text/html,application/xhtml+xml,application/xml;q=0.9,image/avif,image/webp,image/apng,*/*;q=0.8,application/signed-exchange;v=b3;q=0.9
+  - name: Content-Type
+    value: application/json
+authentication: {}
+metaSortKey: -1644062945065.6333
+isPrivate: false
+pathParameters: []
+settingStoreCookies: true
+settingSendCookies: true
+settingDisableRenderRequestBody: false
+settingEncodeUrl: true
+settingRebuildPath: true
+settingFollowRedirects: global

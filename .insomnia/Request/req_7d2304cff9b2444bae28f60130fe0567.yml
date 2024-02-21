@@ -1,0 +1,40 @@
+_id: req_7d2304cff9b2444bae28f60130fe0567
+type: Request
+parentId: fld_4a954d2da56b4dbf8cee9f78b4963c25
+modified: 1695866011002
+created: 1661768742306
+url: curl --proxy brd.superproxy.io:22225 --proxy-user
+  brd-customer-hl_b26c80a9-zone-data_center:v69wc1m0010y  https://lumtest.com/myip.json
+name: BIN LOOKUP
+description: ""
+method: POST
+body:
+  mimeType: application/json
+  text: '{"number":"4397000011171371","exp_month":"05","exp_year":"2024"}'
+parameters: []
+headers:
+  - name: accept
+    value: "*/*"
+  - name: api-version
+    value: 1.3.0.0
+  - name: authorization
+    value: Basic cHJval9sNURaUHFVSkhkR2RhbmR0Z09yQWZ2RzJDVHdXVk1IWDo=
+  - name: content-type
+    value: application/json
+  - name: origin
+    value: https://js.processout.com
+  - name: referer
+    value: https://js.processout.com/
+  - name: user-agent
+    value: Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like
+      Gecko) Chrome/104.0.0.0 Safari/537.36
+authentication: {}
+metaSortKey: -1642500212345
+isPrivate: false
+pathParameters: []
+settingStoreCookies: true
+settingSendCookies: true
+settingDisableRenderRequestBody: false
+settingEncodeUrl: true
+settingRebuildPath: true
+settingFollowRedirects: global

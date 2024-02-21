@@ -1,0 +1,43 @@
+_id: req_0a1ec92d17e7464bbd1af5a69e8ce719
+type: Request
+parentId: wrk_178b5797b30d4d2c883d8e6014163575
+modified: 1707081031653
+created: 1699371693917
+url: http://localhost:3000/worldvision
+name: worldvision
+description: ""
+method: POST
+body:
+  mimeType: application/json
+  text: |-
+    {
+    	"card": "4420632000043376|04|2026|711",
+    	"details": {
+    		"site_username": "rarianerath92029",
+    		"email": "rarianiir5144@gmail.com",
+    		"fname": "Kariane",
+    		"lname": "Rath",
+    		"street": "1931 Don Lee Pl",
+    		"city": "Escondido",
+    		"state": "CA",
+    		"state_name": "California",
+    		"postcode": "92029",
+    		"phone": "7607452444"
+    	}
+    }
+parameters: []
+headers:
+  - name: accept
+    value: "*/*"
+  - name: content-type
+    value: application/json
+authentication: {}
+metaSortKey: -1697048335450.6484
+isPrivate: false
+pathParameters: []
+settingStoreCookies: true
+settingSendCookies: true
+settingDisableRenderRequestBody: false
+settingEncodeUrl: true
+settingRebuildPath: true
+settingFollowRedirects: global

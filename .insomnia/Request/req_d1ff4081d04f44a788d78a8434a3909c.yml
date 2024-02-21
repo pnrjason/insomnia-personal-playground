@@ -1,0 +1,33 @@
+_id: req_d1ff4081d04f44a788d78a8434a3909c
+type: Request
+parentId: fld_4a954d2da56b4dbf8cee9f78b4963c25
+modified: 1694056574924
+created: 1647738756277
+url: https://merchant.revolut.com/payment-auth-popup.html
+name: "11"
+description: ""
+method: GET
+body: {}
+parameters:
+  - name: token
+    value: 5cb5b3db-1a7c-4938-821b-1b1429957aa2
+    disabled: false
+    id: pair_541cd43140214733963c67f5b431d8b0
+headers:
+  - name: accept
+    value: text/html,application/xhtml+xml,application/xml;q=0.9,image/avif,image/webp,image/apng,*/*;q=0.8,application/signed-exchange;v=b3;q=0.7
+  - name: referer
+    value: https://www.unimaticwatches.com/my-account/add-payment-method/
+  - name: user-agent
+    value: Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like
+      Gecko) Chrome/116.0.0.0 Safari/537.36
+authentication: {}
+metaSortKey: -1642500211795
+isPrivate: false
+pathParameters: []
+settingStoreCookies: true
+settingSendCookies: true
+settingDisableRenderRequestBody: false
+settingEncodeUrl: true
+settingRebuildPath: true
+settingFollowRedirects: global

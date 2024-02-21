@@ -1,0 +1,43 @@
+_id: req_b5811d9228a443a89683398c116a3d39
+type: Request
+parentId: wrk_178b5797b30d4d2c883d8e6014163575
+modified: 1707173304022
+created: 1700102739491
+url: http://localhost:3000/chess
+name: chess
+description: ""
+method: POST
+body:
+  mimeType: application/json
+  text: |-
+    {
+    	"card": "4757742006971364|12|2028|141",
+    	"details": {
+    		"site_username": "rarianeh920",
+    		"email": "rarianeh920@gmail.com",
+    		"fname": "Kariane",
+    		"lname": "Rath",
+    		"street": "1931 Don Lee Pl",
+    		"city": "Escondido",
+    		"state": "CA",
+    		"state_name": "California",
+    		"postcode": "92029",
+    		"phone": "7607452444"
+    	}
+    }
+parameters: []
+headers:
+  - name: accept
+    value: "*/*"
+  - name: content-type
+    value: application/json
+authentication: {}
+metaSortKey: -1697062242151.9648
+isPrivate: false
+pathParameters: []
+settingStoreCookies: true
+settingSendCookies: true
+settingDisableRenderRequestBody: false
+settingEncodeUrl: true
+settingRebuildPath: true
+settingFollowRedirects: global

@@ -1,0 +1,38 @@
+_id: req_cfa8172c7896477eb9f285dc2f516e97
+type: Request
+parentId: fld_f7d757d6b75841e0ad2997f615f3f15a
+modified: 1706869521416
+created: 1692290500922
+url: https://api.capmonster.cloud/createTask
+name: RecaptchaV3Proxyless
+description: ""
+method: POST
+body:
+  mimeType: application/json
+  text: |-
+    {
+      "clientKey":"6432833274bf76678dfcbf764fc67ec3",
+      "task": {
+        "type":"RecaptchaV3TaskProxyless",
+        "websiteURL":"https://heartland.hyfin.app/GM6TYPQN4ZWU/paymentLink",
+        "websiteKey":"6LekZxIgAAAAAGfKd-K4BjsGU6B4dZbqL3qc4dPo",
+        "minScore": 1,
+        "pageAction": "myverify"
+      }
+    }
+parameters: []
+headers:
+  - name: accept
+    value: text/html,application/xhtml+xml,application/xml;q=0.9,image/avif,image/webp,image/apng,*/*;q=0.8,application/signed-exchange;v=b3;q=0.9
+  - name: Content-Type
+    value: application/json
+authentication: {}
+metaSortKey: -1642695553860.9092
+isPrivate: false
+pathParameters: []
+settingStoreCookies: true
+settingSendCookies: true
+settingDisableRenderRequestBody: false
+settingEncodeUrl: true
+settingRebuildPath: true
+settingFollowRedirects: global

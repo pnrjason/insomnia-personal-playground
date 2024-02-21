@@ -1,0 +1,39 @@
+_id: req_e435a5d763c94d27bb8fe30082bcaf1f
+type: Request
+parentId: fld_4a954d2da56b4dbf8cee9f78b4963c25
+modified: 1694056998714
+created: 1647738763764
+url: https://www.unimaticwatches.com
+name: "12"
+description: ""
+method: POST
+body:
+  mimeType: application/x-www-form-urlencoded
+  params:
+    - name: payment_method
+      value: stripe_cc
+parameters:
+  - name: wc-ajax
+    value: wc_stripe_frontend_request
+    disabled: false
+  - name: path
+    value: /wc-stripe/v1/setup-intent
+    disabled: false
+headers:
+  - name: accept
+    value: application/json, text/javascript, */*; q=0.01
+  - name: content-type
+    value: application/x-www-form-urlencoded; charset=UTF-8
+  - name: user-agent
+    value: Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like
+      Gecko) Chrome/116.0.0.0 Safari/537.36
+authentication: {}
+metaSortKey: -1642500211791.875
+isPrivate: false
+pathParameters: []
+settingStoreCookies: true
+settingSendCookies: true
+settingDisableRenderRequestBody: false
+settingEncodeUrl: true
+settingRebuildPath: true
+settingFollowRedirects: global

@@ -1,0 +1,53 @@
+_id: req_5bd29e629d114633a6171443cf0f91f6
+type: Request
+parentId: fld_4a954d2da56b4dbf8cee9f78b4963c25
+modified: 1664519150931
+created: 1647801874849
+url: https://contractorcave.ca/my-account/add-payment-method
+name: "25"
+description: ""
+method: POST
+body:
+  mimeType: application/x-www-form-urlencoded
+  params:
+    - name: payment_method
+      value: nmi
+      id: pair_404a4978a55043c0809c4efbe25e2357
+    - name: woocommerce-add-payment-method-nonce
+      value: 867bea7882
+      id: pair_aca25a3a8f86456f8dd3081e3f538201
+    - name: _wp_http_referer
+      value: /my-account/add-payment-method/
+      id: pair_792ea263adfe42a79509f8c51793bc9e
+    - name: woocommerce_add_payment_method
+      value: "1"
+      id: pair_e00ff913e91b47fa9667b26cb21fa12d
+    - name: nmi_js_token
+      value: ng5ghRQ9-PjkCxe-QJT44v-62zm3emEYXrD
+      id: pair_559af5e6fd214a18b19036ce696d0c63
+    - name: nmi_js_response
+      value: '{"tokenType":"inline","token":"ng5ghRQ9-PjkCxe-QJT44v-62zm3emEYXrD","card":{"number":"442063******5621","bin":"442063","exp":"1223","hash":"312ff6b00866d26859f36be0ab80b571","type":"visa"},"check":{"name":null,"account":null,"hash":null,"aba":null},"wallet":{"cardDetails":null,"cardNetwork":null,"email":null,"billingInfo":{"address1":null,"address2":null,"firstName":null,"lastName":null,"postalCode":null,"city":null,"state":null,"country":null,"phone":null},"shippingInfo":{"address1":null,"address2":null,"firstName":null,"lastName":null,"postalCode":null,"city":null,"state":null,"country":null,"phone":null}}}'
+      id: pair_300dee0880e2441398c3713cfcb1e0df
+parameters: []
+headers:
+  - name: accept
+    value: text/html,application/xhtml+xml,application/xml;q=0.9,image/avif,image/webp,image/apng,*/*;q=0.8,application/signed-exchange;v=b3;q=0.9
+  - name: content-type
+    value: application/x-www-form-urlencoded
+  - name: origin
+    value: https://contractorcave.ca
+  - name: referer
+    value: https://contractorcave.ca/my-account/add-payment-method/
+  - name: user-agent
+    value: Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like
+      Gecko) Chrome/102.0.0.0 Safari/537.36
+authentication: {}
+metaSortKey: -1642500211695
+isPrivate: false
+pathParameters: []
+settingStoreCookies: true
+settingSendCookies: true
+settingDisableRenderRequestBody: false
+settingEncodeUrl: true
+settingRebuildPath: true
+settingFollowRedirects: global

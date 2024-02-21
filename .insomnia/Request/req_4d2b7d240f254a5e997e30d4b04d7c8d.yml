@@ -1,0 +1,50 @@
+_id: req_4d2b7d240f254a5e997e30d4b04d7c8d
+type: Request
+parentId: fld_4a954d2da56b4dbf8cee9f78b4963c25
+modified: 1664246018836
+created: 1647743725082
+url: https://contractorcave.ca/my-account/add-payment-method
+name: "19"
+description: ""
+method: POST
+body:
+  mimeType: application/x-www-form-urlencoded
+  params:
+    - name: email
+      value: cqwc1236666@qw.com
+      id: pair_237e15c12bd64b698bb4e5404cc678de
+    - name: password
+      value: cqwc1236666@qw.com
+      id: pair_2e5f39a01def48f485e2eecad3cbe8e9
+    - name: woocommerce-register-nonce
+      value: b88cf66642
+      id: pair_8798162a30dc42f78320346e568542ad
+    - name: _wp_http_referer
+      value: /my-account/add-payment-method/
+      id: pair_7191fb70fa804ba9a9800d6c4790e73c
+    - name: register
+      value: Register
+      id: pair_aef825fdb279448f9fbf60daeb1fb686
+parameters: []
+headers:
+  - name: accept
+    value: text/html,application/xhtml+xml,application/xml;q=0.9,image/avif,image/webp,image/apng,*/*;q=0.8,application/signed-exchange;v=b3;q=0.9
+  - name: content-type
+    value: application/x-www-form-urlencoded
+  - name: origin
+    value: https://contractorcave.ca
+  - name: referer
+    value: https://contractorcave.ca/my-account/add-payment-method/
+  - name: user-agent
+    value: Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like
+      Gecko) Chrome/102.0.0.0 Safari/537.36
+authentication: {}
+metaSortKey: -1642500211757.5
+isPrivate: false
+pathParameters: []
+settingStoreCookies: true
+settingSendCookies: true
+settingDisableRenderRequestBody: false
+settingEncodeUrl: true
+settingRebuildPath: true
+settingFollowRedirects: global

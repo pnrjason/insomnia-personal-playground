@@ -1,0 +1,57 @@
+_id: req_3e3f5394e3f24998be4af749ae8853a0
+type: Request
+parentId: fld_4a954d2da56b4dbf8cee9f78b4963c25
+modified: 1694887396264
+created: 1643081693493
+url: https://payments.braintree-api.com/graphql
+name: "6"
+description: ""
+method: POST
+body:
+  mimeType: application/json
+  text: >-
+    {
+    	"query": "mutation TokenizeCreditCard($input:TokenizeCreditCardInput!){tokenizeCreditCard(input: $input){token}}",
+    	"variables": {
+    		"input": {
+    			"creditCard": {
+    				"number": "4420632000033856",
+    				"expirationMonth": "02",
+    				"expirationYear": "2025",
+    				"cvv": "123",
+    				"billingAddress": {
+    					"postalCode": "90210",
+    					"streetAddress": "123 Street"
+    				}
+    			}
+    		}
+    	}
+    }
+parameters: []
+headers:
+  - name: accept
+    value: "*/*"
+  - name: authorization
+    value: Bearer
+      eyJ0eXAiOiJKV1QiLCJhbGciOiJFUzI1NiIsImtpZCI6IjIwMTgwNDI2MTYtcHJvZHVjdGlvbiIsImlzcyI6Imh0dHBzOi8vYXBpLmJyYWludHJlZWdhdGV3YXkuY29tIn0.eyJleHAiOjE2OTQ5NzM0ODcsImp0aSI6ImNmNmM0YmE4LTk5Y2QtNGFmMi04MjZlLTdhOTI5ZmUyZGNlZCIsInN1YiI6InozcnJkYjdmMnp4anRmaDUiLCJpc3MiOiJodHRwczovL2FwaS5icmFpbnRyZWVnYXRld2F5LmNvbSIsIm1lcmNoYW50Ijp7InB1YmxpY19pZCI6InozcnJkYjdmMnp4anRmaDUiLCJ2ZXJpZnlfY2FyZF9ieV9kZWZhdWx0Ijp0cnVlfSwicmlnaHRzIjpbIm1hbmFnZV92YXVsdCJdLCJzY29wZSI6WyJCcmFpbnRyZWU6VmF1bHQiXSwib3B0aW9ucyI6e319.Qh7IxqWaMaqZLeXy5eDCs3aItNy_NWsJjn86jkXgz29rT7RxGx7uq7cjqBiJoT5j0Ttv8a3D4-jhcvK0KM8KDw
+  - name: braintree-version
+    value: 2018-05-10
+  - name: content-type
+    value: application/json
+  - name: origin
+    value: https://assets.braintreegateway.com
+  - name: referer
+    value: https://assets.braintreegateway.com/
+  - name: user-agent
+    value: Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like
+      Gecko) Chrome/116.0.0.0 Safari/537.36
+authentication: {}
+metaSortKey: -1642500212149.6875
+isPrivate: false
+pathParameters: []
+settingStoreCookies: true
+settingSendCookies: true
+settingDisableRenderRequestBody: false
+settingEncodeUrl: true
+settingRebuildPath: true
+settingFollowRedirects: global

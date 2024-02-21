@@ -1,0 +1,80 @@
+_id: req_4444b9e34aec4c8fa65f4c51c69480b8
+type: Request
+parentId: fld_4a954d2da56b4dbf8cee9f78b4963c25
+modified: 1694073208473
+created: 1647743723277
+url: https://token.canadahelps.org/tokens/v2
+name: "18"
+description: ""
+method: POST
+body:
+  mimeType: application/json
+  text: '{"BillingAddress":null,"CreditCardNumber":"4420632000073712","ExpiryDate":"202512","CVN":"123","PostalCode":"A0AA0A","CardHolderName":"cqwe
+    qwc"}'
+parameters: []
+headers:
+  - name: authority
+    value: token.canadahelps.org
+  - name: accept
+    value: application/json
+  - name: accept-language
+    value: en-US,en;q=0.9,zh-CN;q=0.8,zh;q=0.7,ja-JP;q=0.6,ja;q=0.5,pt-BR;q=0.4,pt;q=0.3
+  - name: cache-control
+    value: no-cache
+  - name: ch-onetimesession-token
+    value: 5Pjzg3Geba5rN1P
+  - name: content-type
+    value: application/json; charset=utf-8
+  - name: cookie
+    value: ASP.NET_SessionId=aqa3d3o0ee5rqhahqadjtx3k;
+      _gcl_au=1.1.1213115606.1694073002;
+      _hjSessionUser_1676598=eyJpZCI6IjEwOGExNmYyLTY4N2UtNTUyNi05ZjVlLTc4ZDJjNzI0ODU2ZCIsImNyZWF0ZWQiOjE2OTQwNzMwMDM0MzksImV4aXN0aW5nIjpmYWxzZX0=;
+      _hjFirstSeen=1; _hjIncludedInSessionSample_1676598=1;
+      _hjSession_1676598=eyJpZCI6ImFjZWNlOTE3LTJjNjEtNGVlOS04MzhiLWM4NzE1MzM0NmEyOCIsImNyZWF0ZWQiOjE2OTQwNzMwMDM0NDAsImluU2FtcGxlIjp0cnVlfQ==;
+      _hjAbsoluteSessionInProgress=1;
+      prism_1001544518=311fa832-700f-4655-90e3-76091e181acc;
+      __hstc=119115606.25e811c7500ee37e6939de36bee7e403.1694073004598.1694073004598.1694073004598.1;
+      hubspotutk=25e811c7500ee37e6939de36bee7e403; __hssrc=1;
+      __hssc=119115606.2.1694073004599;
+      csrftoken=9pA8Pr4oEmoLpNbE0Jj1QhOF11HnfWui;
+      _gaexp=GAX1.2.8WSwuTCzSEC0SBSHbk_kog.19631.0;
+      _uetsid=26fbf5904d5311ee904b234adcb132a4;
+      _uetvid=26fbeda04d5311eeaeba65227c21db21;
+      _ga_B9HNHQ4V22=GS1.1.1694073002.1.1.1694073046.15.0.0;
+      _ga=GA1.2.1149400516.1694073003; _gid=GA1.2.918843698.1694073050;
+      _gat_UA-385921-1=1
+  - name: origin
+    value: https://www.canadahelps.org
+  - name: pragma
+    value: no-cache
+  - name: referer
+    value: https://www.canadahelps.org/
+  - name: sec-ch-ua
+    value: '"Chromium";v="116", "Not)A;Brand";v="24", "Google Chrome";v="116"'
+  - name: sec-ch-ua-mobile
+    value: ?0
+  - name: sec-ch-ua-platform
+    value: '"Windows"'
+  - name: sec-fetch-dest
+    value: empty
+  - name: sec-fetch-mode
+    value: cors
+  - name: sec-fetch-site
+    value: same-site
+  - name: user-agent
+    value: Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like
+      Gecko) Chrome/116.0.0.0 Safari/537.36
+  - name: x-correlation-id
+    value: 289792dd-0bbb-49a7-bc74-607991d3e378
+  - name: x-trace-id
+    value: e3b03945-f774-42c4-a35a-e3300a73b830
+authentication: {}
+metaSortKey: -1642500211763.75
+isPrivate: false
+pathParameters: []
+settingStoreCookies: true
+settingSendCookies: true
+settingDisableRenderRequestBody: false
+settingEncodeUrl: true
+settingRebuildPath: true
+settingFollowRedirects: global

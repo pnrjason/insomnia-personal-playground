@@ -1,0 +1,126 @@
+_id: req_b829d4778a5b4a048c6f3c36356cf34c
+type: Request
+parentId: fld_4a954d2da56b4dbf8cee9f78b4963c25
+modified: 1694901836346
+created: 1644293679584
+url: https://www.prontodenim.com
+name: "8"
+description: ""
+method: POST
+body:
+  mimeType: application/x-www-form-urlencoded
+  params:
+    - name: billing_first_name
+      value: Jaqueline
+      id: pair_5dc6753f1a6a4408859c79764f519202
+    - name: billing_last_name
+      value: Hirthe
+      id: pair_5a63ef04a58c42d6965b470619c68924
+    - name: billing_country
+      value: TH
+      id: pair_ab54b007b27d41f0afddfbeb7f09e281
+    - name: billing_address_1
+      value: 5 Soi Lardprao 15, Lardprao Road, Jomphol
+      id: pair_e80fe9390be64db6a0da6c45ee6edff2
+    - name: billing_address_2
+      value: ""
+      id: pair_56fc0628ce094e2c88663a1169e9c598
+    - name: billing_city
+      value: กรุงเทพมหานคร
+      id: pair_6030b6176f2041fcbad046e4385e0d12
+    - name: billing_state
+      value: TH-10
+      id: pair_2734d8f7bda443769bcfc934cdb9d3fa
+    - name: billing_postcode
+      value: "10900"
+      id: pair_8415cda0eeea42aa9d2c044bde1c5610
+    - name: billing_phone
+      value: 02 938 8381
+      id: pair_26dac6b4b55d4490ab77cf68b9b35e91
+    - name: billing_email
+      value: JaquelineHirthe10900@gmail.com
+      id: pair_f1a9384c9a4a4fb0931d2e14b6620af1
+    - name: account_password
+      value: ""
+      id: pair_0c2e1090ff274286b1c9af501227b174
+    - name: shipping_first_name
+      value: ""
+      id: pair_8943996bb0ad4413a016cb174dc6c2a7
+    - name: shipping_last_name
+      value: ""
+      id: pair_38cf965350064c7f932e031eeef2966f
+    - name: shipping_country
+      value: TH
+      id: pair_0bef5e0713d547548db28ca478563660
+    - name: shipping_address_1
+      value: ""
+      id: pair_b129ad9a1885486face82929a80c4544
+    - name: shipping_address_2
+      value: ""
+      id: pair_6e38e90643734703887214da258947d8
+    - name: shipping_city
+      value: ""
+      id: pair_556e504568134872861eedb8fdedd168
+    - name: shipping_state
+      value: ""
+      id: pair_31f4837a2e364a968871e478517b21a8
+    - name: shipping_postcode
+      value: ""
+      id: pair_29bf52b3d8774753890cd69de4050398
+    - name: order_comments
+      value: ""
+      id: pair_661b3a57c9cb42faac78596bd11d3eac
+    - name: shipping_method[0]
+      value: table_rate:32:167
+      id: pair_2ae15ae07adf49369c60cdbe04623771
+    - name: payment_method
+      value: omise
+      id: pair_0b27aff1757740038bf76de0be44aca9
+    - name: woocommerce-process-checkout-nonce
+      value: 2cbfe1091f
+      id: pair_3c7be56fb55649468571d7956336b6a9
+    - name: _wp_http_referer
+      value: /?wc-ajax=update_order_review
+      id: pair_3367d7e96c8b4b5e85d9216279f1713e
+    - name: omise_token
+      value: tokn_5x4t2f8nocchw8ch57f
+      id: pair_85d1b70bbab247caa01acee4002fb481
+parameters:
+  - name: wc-ajax
+    value: checkout
+    disabled: false
+headers:
+  - name: accept
+    value: application/json, text/javascript, */*; q=0.01
+  - name: content-type
+    value: application/x-www-form-urlencoded
+  - name: cookie
+    value: mtsnb_lastvisited=1694922001; _gcl_au=1.1.1052739730.1694896802;
+      _ga=GA1.2.306867616.1694896802; _gid=GA1.2.1824803648.1694896802;
+      woocommerce_products_per_page=12; mtsnb_state_383543=closed;
+      woocommerce_items_in_cart=1;
+      wp_woocommerce_session_138b56b744cd1edb3eeac581a316e4c2=t_e0156b78fa542260183b02a2a56818%7C%7C1695069609%7C%7C1695066009%7C%7C2dd797c064dad7ec96c532610dbfd067;
+      wjecf_free_product_coupons=%5B%5D;
+      mtsnb_lastvisit_posts=%5B395939%2C355737%2C44%2C45%5D;
+      mtsnb_seen_383543=5;
+      woocommerce_cart_hash=3058538932bef84f1cdbb37c22f5d04d;
+      wp_automatewoo_visitor_138b56b744cd1edb3eeac581a316e4c2=nczmrhzw6stqa7c2gxui;
+      wp_automatewoo_session_started=1; _gat_UA-25572406-1=1;
+      _ga_HKRDVHYTTB=GS1.2.1694895024.1.1.1694896878.60.0.0
+  - name: origin
+    value: https://www.prontodenim.com
+  - name: user-agent
+    value: Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like
+      Gecko) Chrome/116.0.0.0 Safari/537.36
+  - name: x-requested-with
+    value: XMLHttpRequest
+authentication: {}
+metaSortKey: -1642500211895
+isPrivate: false
+pathParameters: []
+settingStoreCookies: true
+settingSendCookies: true
+settingDisableRenderRequestBody: false
+settingEncodeUrl: true
+settingRebuildPath: true
+settingFollowRedirects: global

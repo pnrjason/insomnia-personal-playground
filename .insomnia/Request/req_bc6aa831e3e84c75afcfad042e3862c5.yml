@@ -1,0 +1,37 @@
+_id: req_bc6aa831e3e84c75afcfad042e3862c5
+type: Request
+parentId: fld_f7d757d6b75841e0ad2997f615f3f15a
+modified: 1692507668803
+created: 1641974600608
+url: https://api.capmonster.cloud/createTask
+name: HCaptcha
+description: ""
+method: POST
+body:
+  mimeType: application/json
+  text: >-
+    {
+        "clientKey":"6432833274bf76678dfcbf764fc67ec3",
+        "task":
+        {
+            "type":"HCaptchaTaskProxyless",
+            "websiteURL":"https://b.stripecdn.com/stripethirdparty-srv/assets/v3.7/HCaptcha.html?id=111c95bf-6d40-4e08-894d-c242759918af&origin=https%3A%2F%2Fjs.stripe.com",
+            "websiteKey":"c7faac4c-1cd7-4b1b-b2d4-42ba98d09c7a"
+        }
+    }
+parameters: []
+headers:
+  - name: accept
+    value: text/html,application/xhtml+xml,application/xml;q=0.9,image/avif,image/webp,image/apng,*/*;q=0.8,application/signed-exchange;v=b3;q=0.9
+  - name: Content-Type
+    value: application/json
+authentication: {}
+metaSortKey: -1667503937146.6172
+isPrivate: false
+pathParameters: []
+settingStoreCookies: true
+settingSendCookies: true
+settingDisableRenderRequestBody: false
+settingEncodeUrl: true
+settingRebuildPath: true
+settingFollowRedirects: global

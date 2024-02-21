@@ -1,0 +1,27 @@
+_id: req_1857d2d4bb9f46b09025799f1409a6d9
+type: Request
+parentId: wrk_178b5797b30d4d2c883d8e6014163575
+modified: 1703264443815
+created: 1703264434118
+url: https://contractorcave.ackroo.net/en/gifts/new
+name: New Request
+description: ""
+method: GET
+body: {}
+parameters: []
+headers:
+  - name: accept
+    value: text/html,application/xhtml+xml,application/xml;q=0.9,image/avif,image/webp,image/apng,*/*;q=0.8,application/signed-exchange;v=b3;q=0.7
+  - name: user-agent
+    value: Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like
+      Gecko) Chrome/120.0.0.0 Safari/537.36
+authentication: {}
+metaSortKey: -1703264434118
+isPrivate: false
+pathParameters: []
+settingStoreCookies: true
+settingSendCookies: true
+settingDisableRenderRequestBody: false
+settingEncodeUrl: true
+settingRebuildPath: true
+settingFollowRedirects: global

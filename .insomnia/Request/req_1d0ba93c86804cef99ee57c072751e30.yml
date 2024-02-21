@@ -1,0 +1,43 @@
+_id: req_1d0ba93c86804cef99ee57c072751e30
+type: Request
+parentId: fld_4a954d2da56b4dbf8cee9f78b4963c25
+modified: 1663717639259
+created: 1647738762063
+url: https://www1.bluesnap.com/services/2/payment-fields-tokens/eyJhbGciOiJIUzI1NiJ9.eyJwYXlsb2FkIjp7ImNvbW1vbkp3dFBheWxvYWQiOnsiaWQiOiI1NzA5MzQ0Mjc1MTkwODc3OTMxMTg4MyIsImRhdGVDcmVhdGVkIjoxNjYyODg5MzY4NTU5fSwibWVyY2hhbnRJZCI6NjEyMTI2LCJzZW50cnkiOnsibWVyY2hhbnQiOmZhbHNlLCJhcHBzIjpbXX19fQ.LdhqY0ixXGus5sFhpysBOR87esx45AUJTS0UsORsaKk._1
+name: "12.5"
+description: ""
+method: PUT
+body:
+  mimeType: application/json
+  text: '{"cvv":"144","expDate":"12/2025"}'
+parameters: []
+headers:
+  - name: Accept
+    value: "*/*"
+  - name: Authorization
+    value: anonymous
+  - name: BLUESNAP_ORIGIN_HEADER
+    value: Web SDK - Hosted Payment Fields 4.11.2
+  - name: BLUESNAP_ORIGIN_VERSION_HEADER
+    value: 4.11.2
+  - name: BLUESNAP_VERSION_HEADER
+    value: "2.0"
+  - name: Content-Type
+    value: application/json
+  - name: Origin
+    value: https://www1.bluesnap.com
+  - name: Referer
+    value: https://www1.bluesnap.com/web-sdk/4.11.2/hpfCvvInput.html
+  - name: User-Agent
+    value: Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like
+      Gecko) Chrome/105.0.0.0 Safari/537.36
+authentication: {}
+metaSortKey: -1642500211789.9219
+isPrivate: false
+pathParameters: []
+settingStoreCookies: true
+settingSendCookies: true
+settingDisableRenderRequestBody: false
+settingEncodeUrl: true
+settingRebuildPath: true
+settingFollowRedirects: global

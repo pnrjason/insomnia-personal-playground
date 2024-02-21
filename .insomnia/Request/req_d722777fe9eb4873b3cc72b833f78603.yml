@@ -1,0 +1,30 @@
+_id: req_d722777fe9eb4873b3cc72b833f78603
+type: Request
+parentId: wrk_178b5797b30d4d2c883d8e6014163575
+modified: 1699632625813
+created: 1698400153588
+url: http://localhost:3000/cybersource
+name: cybersource
+description: ""
+method: POST
+body:
+  mimeType: application/json
+  text: '{"card":"4420632000022420|01|2026|000","details":{"site_username":"rarianerath92029","email":"rarianerath67@gmail.com","fname":"Kariane","lname":"Rath","street":"1931
+    Don Lee
+    Pl","city":"Escondido","state":"CA","state_name":"California","postcode":"92029","phone":"7607452444"}}'
+parameters: []
+headers:
+  - name: accept
+    value: "*/*"
+  - name: content-type
+    value: application/json
+authentication: {}
+metaSortKey: -1696964895242.75
+isPrivate: false
+pathParameters: []
+settingStoreCookies: true
+settingSendCookies: true
+settingDisableRenderRequestBody: false
+settingEncodeUrl: true
+settingRebuildPath: true
+settingFollowRedirects: global

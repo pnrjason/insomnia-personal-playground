@@ -1,0 +1,40 @@
+_id: req_6fc25ace86504b8290cf66afa9fdd5dc
+type: Request
+parentId: wrk_178b5797b30d4d2c883d8e6014163575
+modified: 1699593029534
+created: 1697811904171
+url: https://www.lbcexpress.com/AMisc/searchRedirect
+name: LBC
+description: ""
+method: POST
+body:
+  mimeType: application/x-www-form-urlencoded
+  params:
+    - name: keyword
+      value: "27570000153778"
+      id: pair_b5dff731ea844a0cbc4ce474415bb63f
+parameters: []
+headers:
+  - name: accept
+    value: application/json, text/javascript, */*; q=0.01
+  - name: content-type
+    value: application/x-www-form-urlencoded; charset=UTF-8
+  - name: origin
+    value: https://www.lbcexpress.com
+  - name: referer
+    value: https://www.lbcexpress.com/
+  - name: user-agent
+    value: Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like
+      Gecko) Chrome/118.0.0.0 Safari/537.36
+  - name: x-requested-with
+    value: XMLHttpRequest
+authentication: {}
+metaSortKey: -1697811904171
+isPrivate: false
+pathParameters: []
+settingStoreCookies: true
+settingSendCookies: true
+settingDisableRenderRequestBody: false
+settingEncodeUrl: true
+settingRebuildPath: true
+settingFollowRedirects: global

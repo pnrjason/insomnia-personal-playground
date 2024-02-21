@@ -1,0 +1,31 @@
+_id: req_7ec5ec85acb4463cbb5502c5fdb813c4
+type: Request
+parentId: wrk_178b5797b30d4d2c883d8e6014163575
+modified: 1706817768841
+created: 1703264530328
+url: https://www.beanstream.com/scripts/tokenization/tokens
+name: New Request
+description: ""
+method: POST
+body:
+  mimeType: application/json
+  text: '{"number":"4218082408857074","expiry_month":"07","expiry_year":"26","cvd":"231"}'
+parameters: []
+headers:
+  - name: accept
+    value: "*/*"
+  - name: content-type
+    value: application/json
+  - name: user-agent
+    value: Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like
+      Gecko) Chrome/120.0.0.0 Safari/537.36
+authentication: {}
+metaSortKey: -1700550241207.25
+isPrivate: false
+pathParameters: []
+settingStoreCookies: true
+settingSendCookies: true
+settingDisableRenderRequestBody: false
+settingEncodeUrl: true
+settingRebuildPath: true
+settingFollowRedirects: global
