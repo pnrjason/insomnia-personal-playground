@@ -1,7 +1,7 @@
 _id: req_fb27fe06bfb74061b97ec441020c504d
 type: Request
 parentId: wrk_178b5797b30d4d2c883d8e6014163575
-modified: 1708560085604
+modified: 1708560147536
 created: 1706953340152
 url: https://collectcheckout.com/api/v4/cart
 name: New Request
@@ -30,7 +30,7 @@ body:
     			"use3DSecure": false
     		}
     	],
-    	"key": "checkout_public_e3K626gmnT2WS8T66b5A8W6ba24n6DDd"
+    	"key": "checkout_public_e3K626gmnT2WS8T66b5A8W6ba24n6DDc"
     }
 parameters: []
 headers:
