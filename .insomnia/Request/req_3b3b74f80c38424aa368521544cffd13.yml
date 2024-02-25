@@ -1,9 +1,9 @@
 _id: req_3b3b74f80c38424aa368521544cffd13
 type: Request
 parentId: wrk_178b5797b30d4d2c883d8e6014163575
-modified: 1708098932850
+modified: 1708590965337
 created: 1698895048646
-url: http://localhost:3000/vantiv/fantasma
+url: https://localhost:3000/chess
 name: bluedog
 description: ""
 method: POST
@@ -13,8 +13,8 @@ body:
     {
     	"card": "4420632000016521|09|2031|264",
     	"details": {
-    		"site_username": "laurymooe57703",
-    		"email": "laurymooe57703@gmail.com",
+    		"site_username": "laurymooe537703",
+    		"email": "laurymooe577303@gmail.com",
     		"fname": "Laury",
     		"lname": "Moore",
     		"street": "201 W Walnut Ave",
