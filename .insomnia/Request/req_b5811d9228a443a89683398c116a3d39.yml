@@ -1,9 +1,9 @@
 _id: req_b5811d9228a443a89683398c116a3d39
 type: Request
 parentId: wrk_178b5797b30d4d2c883d8e6014163575
-modified: 1707173304022
+modified: 1708904348003
 created: 1700102739491
-url: http://localhost:3000/chess
+url: https://raven-playwright.up.railway.app/ip
 name: chess
 description: ""
 method: POST
