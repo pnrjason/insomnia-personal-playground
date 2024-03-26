@@ -68,6 +68,7 @@ headers:
 authentication: {}
 metaSortKey: -1700097875722.125
 isPrivate: false
+pathParameters: []
 settingStoreCookies: true
 settingSendCookies: true
 settingDisableRenderRequestBody: false
