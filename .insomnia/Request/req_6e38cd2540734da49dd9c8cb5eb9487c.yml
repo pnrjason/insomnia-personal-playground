@@ -1,17 +1,30 @@
 _id: req_6e38cd2540734da49dd9c8cb5eb9487c
 type: Request
 parentId: wrk_178b5797b30d4d2c883d8e6014163575
-modified: 1699987602798
+modified: 1710469919644
 created: 1696668218948
-url: https://raven-playwright.up.railway.app/deposytgateway
-name: fluidpay
+url: http://localhost:3000/vantiv/Skulleron
+name: vantiv
 description: ""
 method: POST
 body:
   mimeType: application/json
-  text: '{"card":"4757742006971364|12|2028|141","details":{"site_username":"rarianerath92029","email":"rarianerath92029@gmail.com","fname":"Kariane","lname":"Rath","street":"1931
-    Don Lee
-    Pl","city":"Escondido","state":"CA","state_name":"California","postcode":"92029","phone":"7607452444"}}'
+  text: |-
+    {
+    	"card": "4757742006971364|12|2028|141|Skulleron",
+    	"details": {
+    		"site_username": "rarianerath92029",
+    		"email": "rarianerath92029@gmail.com",
+    		"fname": "Kariane",
+    		"lname": "Rath",
+    		"street": "1931 Don Lee Pl",
+    		"city": "Escondido",
+    		"state": "CA",
+    		"state_name": "California",
+    		"postcode": "92029",
+    		"phone": "7607452444"
+    	}
+    }
 parameters: []
 headers:
   - name: accept
